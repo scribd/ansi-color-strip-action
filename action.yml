@@ -1,0 +1,37 @@
+name: 'ANSI Color Strip Action'
+description: 'Remove any ANSI escaped colors from a passed in file or string.'
+inputs:
+  path:
+    description: 'The filepath to remove color codes from.'
+    required: false
+  string:
+    description: 'The string to remove color codes from.'
+    required: false
+outputs:
+  content: 
+    description: 'The content after color removal.'
+    value: ${{ steps.strip.outputs.content }}
+runs:
+  using: "composite"
+  steps: 
+    - run: |
+        if [[ "${{ inputs.path }}" != "" ]]; then
+          cp "${{ inputs.path }}" /tmp/ansi.txt
+        else
+          cat >/tmp/ansi.txt <<EOL5285109
+          ${{ inputs.string }}
+        EOL5285109
+        fi
+
+        if [[ $(uname -s) == Darwin* ]]; then
+          CONTENT=`cat /tmp/ansi.txt | sed -E "s/\x1B\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g" | sed -E "s/\\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g"`
+        else 
+          CONTENT=`cat /tmp/ansi.txt | sed -r "s/\x1B\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g" | sed -r "s/\\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g"`
+        fi
+
+        CONTENT="${CONTENT//'%'/%25}"
+        CONTENT="${CONTENT//$'\n'/%0A}"
+        CONTENT="${CONTENT//$'\r'/%0D}"
+        echo "::set-output name=content::$CONTENT"
+      shell: bash
+      id: strip

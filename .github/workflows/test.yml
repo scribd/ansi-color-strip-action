@@ -1,0 +1,39 @@
+name: Test Funtionality
+on: push
+
+jobs:
+  test_file:
+    strategy:
+      matrix:
+        os: ['macos-latest', 'ubuntu-latest']
+    runs-on: ${{ matrix.os }}
+    name: Test Stripping A File
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ./
+        id: strip
+        with:
+          path: test/build.log
+      - name: Print Stripped Contents
+        run: echo "${{ steps.strip.outputs.content }}"
+  test_string:
+    strategy:
+      matrix:
+        os: ['macos-latest', 'ubuntu-latest']
+    runs-on: ${{ matrix.os }}
+    name: Test Stripping A String
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ./
+        id: strip
+        with: 
+          string: |-
+            Beginning Log File
+            Perform Some Action
+            Run Some Commands
+            Oh No, There Was An [31mError[0m 
+            This Is The Error
+            [31m
+            End Log File[0m
+      - name: Print Stripped Contents
+        run: echo "${{ steps.strip.outputs.content }}"
