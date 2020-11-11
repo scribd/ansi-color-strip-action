@@ -4,13 +4,17 @@ Github Action to remove any ANSI escaped colors from a passed in file or string.
 
 ## Inputs
 
+### `string`
+
+The string to retrieve lines from.
+
 ### `path`
 
 The filepath to retrieve lines from.
 
-### `string`
+### `overwrite-path`
 
-The string to retrieve lines from.
+Replace the provided filepath with the content after color removal.
 
 ## Outputs
 

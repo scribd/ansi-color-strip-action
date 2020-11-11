@@ -4,6 +4,9 @@ inputs:
   path:
     description: 'The filepath to remove color codes from.'
     required: false
+  overwrite-path:
+    description: 'Replace the provided filepath with the content after color removal.'
+    default: false
   string:
     description: 'The string to remove color codes from.'
     required: false
@@ -27,6 +30,13 @@ runs:
           CONTENT=`cat /tmp/ansi.txt | sed -E "s/\x1B\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g" | sed -E "s/\\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g"`
         else 
           CONTENT=`cat /tmp/ansi.txt | sed -r "s/\x1B\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g" | sed -r "s/\\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g"`
+        fi
+
+        if [[ "${{ inputs.overwrite-path }}" != "false" ]]; then
+          echo "Overwriting file."
+          cat >"${{ inputs.path }}" <<EOL5285109
+          $CONTENT
+        EOL5285109
         fi
 
         CONTENT="${CONTENT//'%'/%25}"

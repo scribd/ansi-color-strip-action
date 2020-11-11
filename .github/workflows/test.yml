@@ -37,3 +37,18 @@ jobs:
             End Log File[0m
       - name: Print Stripped Contents
         run: echo "${{ steps.strip.outputs.content }}"
+  test_overwrite_file:
+    strategy:
+      matrix:
+        os: ['macos-latest', 'ubuntu-latest']
+    runs-on: ${{ matrix.os }}
+    name: Test Overwriting A File
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ./
+        id: strip
+        with:
+          path: test/build.log
+          overwrite-path: true
+      - name: Print Stripped Contents
+        run: cat test/build.log
