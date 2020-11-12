@@ -1,0 +1,1537 @@
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane_core/lib/fastlane_core/fastlane_folder.rb:5: warning: already initialized constant FastlaneCore::FastlaneFolder::FOLDER_NAME
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane_core/lib/fastlane_core/fastlane_folder.rb:5: warning: previous definition of FOLDER_NAME was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_certificates.rb:4: warning: already initialized constant Fastlane::Actions::SharedValues::CERT_FILE_PATH
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_certificates.rb:4: warning: previous definition of CERT_FILE_PATH was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_certificates.rb:5: warning: already initialized constant Fastlane::Actions::SharedValues::CERT_CERTIFICATE_ID
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_certificates.rb:5: warning: previous definition of CERT_CERTIFICATE_ID was here
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/actions_helper.rb:4: warning: already initialized constant Fastlane::Actions::SharedValues::LANE_NAME
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/actions_helper.rb:4: warning: previous definition of LANE_NAME was here
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/actions_helper.rb:5: warning: already initialized constant Fastlane::Actions::SharedValues::PLATFORM_NAME
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/actions_helper.rb:5: warning: previous definition of PLATFORM_NAME was here
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/actions_helper.rb:6: warning: already initialized constant Fastlane::Actions::SharedValues::ENVIRONMENT
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/actions_helper.rb:6: warning: previous definition of ENVIRONMENT was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:7: warning: already initialized constant Fastlane::Actions::SharedValues::GRADLE_APK_OUTPUT_PATH
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:7: warning: previous definition of GRADLE_APK_OUTPUT_PATH was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:8: warning: already initialized constant Fastlane::Actions::SharedValues::GRADLE_ALL_APK_OUTPUT_PATHS
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:8: warning: previous definition of GRADLE_ALL_APK_OUTPUT_PATHS was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:9: warning: already initialized constant Fastlane::Actions::SharedValues::GRADLE_AAB_OUTPUT_PATH
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:9: warning: previous definition of GRADLE_AAB_OUTPUT_PATH was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:10: warning: already initialized constant Fastlane::Actions::SharedValues::GRADLE_ALL_AAB_OUTPUT_PATHS
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:10: warning: previous definition of GRADLE_ALL_AAB_OUTPUT_PATHS was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:11: warning: already initialized constant Fastlane::Actions::SharedValues::GRADLE_OUTPUT_JSON_OUTPUT_PATH
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:11: warning: previous definition of GRADLE_OUTPUT_JSON_OUTPUT_PATH was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:12: warning: already initialized constant Fastlane::Actions::SharedValues::GRADLE_ALL_OUTPUT_JSON_OUTPUT_PATHS
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:12: warning: previous definition of GRADLE_ALL_OUTPUT_JSON_OUTPUT_PATHS was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:13: warning: already initialized constant Fastlane::Actions::SharedValues::GRADLE_MAPPING_TXT_OUTPUT_PATH
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:13: warning: previous definition of GRADLE_MAPPING_TXT_OUTPUT_PATH was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:14: warning: already initialized constant Fastlane::Actions::SharedValues::GRADLE_ALL_MAPPING_TXT_OUTPUT_PATHS
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:14: warning: previous definition of GRADLE_ALL_MAPPING_TXT_OUTPUT_PATHS was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:15: warning: already initialized constant Fastlane::Actions::SharedValues::GRADLE_FLAVOR
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:15: warning: previous definition of GRADLE_FLAVOR was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:16: warning: already initialized constant Fastlane::Actions::SharedValues::GRADLE_BUILD_TYPE
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/gradle.rb:16: warning: previous definition of GRADLE_BUILD_TYPE was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/capture_android_screenshots.rb:4: warning: already initialized constant Fastlane::Actions::SharedValues::SCREENGRAB_OUTPUT_DIRECTORY
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/capture_android_screenshots.rb:4: warning: previous definition of SCREENGRAB_OUTPUT_DIRECTORY was here
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/sync_code_signing.rb:4: warning: already initialized constant Fastlane::Actions::SharedValues::MATCH_PROVISIONING_PROFILE_MAPPING
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/sync_code_signing.rb:4: warning: previous definition of MATCH_PROVISIONING_PROFILE_MAPPING was here
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/run_tests.rb:4: warning: already initialized constant Fastlane::Actions::SharedValues::SCAN_DERIVED_DATA_PATH
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/run_tests.rb:4: warning: previous definition of SCAN_DERIVED_DATA_PATH was here
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/run_tests.rb:5: warning: already initialized constant Fastlane::Actions::SharedValues::SCAN_GENERATED_PLIST_FILE
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/run_tests.rb:5: warning: previous definition of SCAN_GENERATED_PLIST_FILE was here
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/run_tests.rb:6: warning: already initialized constant Fastlane::Actions::SharedValues::SCAN_GENERATED_PLIST_FILES
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/run_tests.rb:6: warning: previous definition of SCAN_GENERATED_PLIST_FILES was here
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/run_tests.rb:7: warning: already initialized constant Fastlane::Actions::SharedValues::SCAN_ZIP_BUILD_PRODUCTS_PATH
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/run_tests.rb:7: warning: previous definition of SCAN_ZIP_BUILD_PRODUCTS_PATH was here
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/capture_ios_screenshots.rb:4: warning: already initialized constant Fastlane::Actions::SharedValues::SNAPSHOT_SCREENSHOTS_PATH
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/capture_ios_screenshots.rb:4: warning: previous definition of SNAPSHOT_SCREENSHOTS_PATH was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_provisioning_profile.rb:4: warning: already initialized constant Fastlane::Actions::SharedValues::SIGH_PROFILE_PATH
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_provisioning_profile.rb:4: warning: previous definition of SIGH_PROFILE_PATH was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_provisioning_profile.rb:5: warning: already initialized constant Fastlane::Actions::SharedValues::SIGH_PROFILE_PATHS
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_provisioning_profile.rb:5: warning: previous definition of SIGH_PROFILE_PATHS was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_provisioning_profile.rb:6: warning: already initialized constant Fastlane::Actions::SharedValues::SIGH_UDID
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_provisioning_profile.rb:6: warning: previous definition of SIGH_UDID was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_provisioning_profile.rb:7: warning: already initialized constant Fastlane::Actions::SharedValues::SIGH_UUID
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_provisioning_profile.rb:7: warning: previous definition of SIGH_UUID was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_provisioning_profile.rb:8: warning: already initialized constant Fastlane::Actions::SharedValues::SIGH_NAME
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/get_provisioning_profile.rb:8: warning: previous definition of SIGH_NAME was here
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/create_app_online.rb:4: warning: already initialized constant Fastlane::Actions::SharedValues::PRODUCE_APPLE_ID
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/fastlane-2.166.0/fastlane/lib/fastlane/actions/create_app_online.rb:4: warning: previous definition of PRODUCE_APPLE_ID was here
+[02:11:37]: Sending anonymous analytics information
+[02:11:37]: Learn more at https://docs.fastlane.tools/#metrics
+[02:11:37]: No personal or sensitive data is sent.
+[02:11:37]: You can disable this by adding `opt_out_usage` at the top of your Fastfile
+[02:11:37]: [32mSuccessfully loaded '/Users/runner/work/irando-app/irando-app/fastlane/Gymfile' 📄[0m
+
++---------------------+---------------------+
+| Detected Values from './fastlane/Gymfile' |
++---------------------+---------------------+
+| include_bitcode     | false               |
+| include_symbols     | false               |
++---------------------+---------------------+
+
+[02:11:38]: [33mResolving Swift Package Manager dependencies...[0m
+[02:11:38]: [36m$ xcodebuild -resolvePackageDependencies -workspace ./irando-app.xcworkspace -scheme irando-app\ Enterprise -derivedDataPath build-product[0m
+[02:11:41]: ▸ [35mCommand line invocation:[0m
+[02:11:41]: ▸ [35m    /Applications/Xcode_12.app/Contents/Developer/usr/bin/xcodebuild -resolvePackageDependencies -workspace ./irando-app.xcworkspace -scheme "irando-app Enterprise" -derivedDataPath build-product[0m
+[02:11:41]: ▸ [35mUser defaults from command line:[0m
+[02:11:41]: ▸ [35m    IDEDerivedDataPathOverride = /Users/runner/work/irando-app/irando-app/build-product[0m
+[02:11:45]: ▸ [35mresolved source packages: [0m
+[02:11:45]: [36m$ xcodebuild -showBuildSettings -workspace ./irando-app.xcworkspace -scheme irando-app\ Enterprise -derivedDataPath build-product[0m
+[02:11:48]: [33mCommand timed out after 3 seconds on try 1 of 11, trying again with a 6 second timeout...[0m
+[02:11:54]: [33mCommand timed out after 6 seconds on try 2 of 11, trying again with a 12 second timeout...[0m
+[02:12:03]: Detected provisioning profile mapping: {:"com.rando-app.ent.irando-app"=>"match InHouse com.rando-app.ent.irando-app", :"com.rando-app.ent.irando-app.SiriExtension"=>"irando-app SIRI Extension Enterprise Ent", :"com.rando-app.$(PRODUCT_NAME:rfc1034identifier)"=>"match InHouse com.rando-app.ent.irando-app"}
+
++----------------------------------------------------------------------------------+-----------------------------------------------------------+
+|                                                           [32mSummary for gym 2.166.0[0m                                                            |
++----------------------------------------------------------------------------------+-----------------------------------------------------------+
+| scheme                                                                           | irando-app Enterprise                                        |
+| export_method                                                                    | enterprise                                                |
+| export_options.method                                                            | enterprise                                                |
+| export_options.provisioningProfiles.com.rando-app.ent.irando-app                       | match InHouse com.rando-app.ent.irando-app                      |
+| export_options.provisioningProfiles.com.rando-app.ent.irando-app.SiriExtension         | irando-app SIRI Extension Enterprise Ent                     |
+| export_options.provisioningProfiles.com.rando-app.$(PRODUCT_NAME:rfc1034identifier) | match InHouse com.rando-app.ent.irando-app                      |
+| derived_data_path                                                                | build-product                                             |
+| clean                                                                            | false                                                     |
+| result_bundle                                                                    | true                                                      |
+| output_directory                                                                 | test_output                                               |
+| workspace                                                                        | ./irando-app.xcworkspace                                     |
+| destination                                                                      | generic/platform=iOS                                      |
+| output_name                                                                      | irando-app                                                   |
+| build_path                                                                       | /Users/runner/Library/Developer/Xcode/Archives/2020-11-12 |
+| silent                                                                           | false                                                     |
+| skip_package_ipa                                                                 | false                                                     |
+| skip_package_pkg                                                                 | false                                                     |
+| include_symbols                                                                  | false                                                     |
+| include_bitcode                                                                  | false                                                     |
+| buildlog_path                                                                    | ~/Library/Logs/gym                                        |
+| skip_profile_detection                                                           | false                                                     |
+| xcode_path                                                                       | /Applications/Xcode_12.app                                |
++----------------------------------------------------------------------------------+-----------------------------------------------------------+
+
+[02:12:03]: [36m$ set -o pipefail && xcodebuild -workspace ./irando-app.xcworkspace -scheme irando-app\ Enterprise -derivedDataPath build-product -destination 'generic/platform=iOS' -archivePath /Users/runner/Library/Developer/Xcode/Archives/2020-11-12/irando-app\ 2020-11-12\ 02.12.03.xcarchive -resultBundlePath 'test_output/irando-app.result' archive | tee /Users/runner/Library/Logs/gym/irando-app-irando-app\ Enterprise.log | xcpretty[0m
+[02:12:04]: ▸ [35m/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/rouge-2.0.7/lib/rouge/lexers/shell.rb:20: warning: already initialized constant Rouge::Lexers::Shell::KEYWORDS[0m
+[02:12:04]: ▸ [35m/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/rouge-2.0.7/lib/rouge/lexers/shell.rb:20: warning: previous definition of KEYWORDS was here[0m
+[02:12:04]: ▸ [35m/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/rouge-2.0.7/lib/rouge/lexers/shell.rb:25: warning: already initialized constant Rouge::Lexers::Shell::BUILTINS[0m
+[02:12:04]: ▸ [35m/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/rouge-2.0.7/lib/rouge/lexers/shell.rb:25: warning: previous definition of BUILTINS was here[0m
+[02:12:12]: [35m[33m▸[0m [39;1mCopying[0m ViewLayer.h[0m
+[02:12:12]: [35m[33m▸[0m [39;1mProcessing[0m Info.plist[0m
+[02:12:12]: [35m[33m▸[0m [39;1mRunning script[0m 'Sourcery'[0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Core/StatusCode.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 306, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 18, "key.substructure": [["key.typename": "String", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 314, "key.length": 9, "key.namelength": 0]], "key.name": "unknown(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 18, "key.offset": 306][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Managers/AudioLocalizedStringManager.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 370, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 55, "key.substructure": [["key.typename": "AudioAsset", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 378, "key.length": 10, "key.namelength": 0], ["key.nameoffset": 390, "key.typename": "Int", "key.length": 10, "key.name": "index", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 390, "key.namelength": 5], ["key.nameoffset": 402, "key.typename": "Bool", "key.length": 22, "key.name": "interpolateCount", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 402, "key.namelength": 16]], "key.name": "chapter(_:index:interpolateCount:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 55, "key.offset": 370][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioAssetEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 3368, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 20, "key.substructure": [["key.typename": "String", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 3381, "key.length": 6, "key.namelength": 0]], "key.name": "jsonWebToken(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 20, "key.offset": 3368][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioAssetEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 3402, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 69, "key.substructure": [["key.nameoffset": 3429, "key.typename": "String", "key.length": 21, "key.name": "playlistToken", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 3429, "key.namelength": 13], ["key.nameoffset": 3452, "key.typename": "String", "key.length": 18, "key.name": "sessionKey", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 3452, "key.namelength": 10]], "key.name": "playlistTokenAndSessionKey(playlistToken:sessionKey:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 69, "key.offset": 3402][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioAssetEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 22431, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 46, "key.substructure": [["key.typename": "URLSessionDownloadTask", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 22454, "key.length": 22, "key.namelength": 0]], "key.name": "urlSessionDownloadTask(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 46, "key.offset": 22431][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioAssetEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 22503, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 38, "key.substructure": [["key.typename": "AVAssetDownloadTask", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 22521, "key.length": 19, "key.namelength": 0]], "key.name": "assetDownloadTask(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 38, "key.offset": 22503][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioAssetEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 46548, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 32, "key.substructure": [["key.nameoffset": 46563, "key.typename": "Bool", "key.length": 16, "key.name": "isDownload", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 46563, "key.namelength": 10]], "key.name": "masterPlaylist(isDownload:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 32, "key.offset": 46548][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioAssetEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 46598, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 26, "key.substructure": [["key.nameoffset": 46607, "key.typename": "Bool", "key.length": 16, "key.name": "isDownload", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 46607, "key.namelength": 10]], "key.name": "playlist(isDownload:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 26, "key.offset": 46598][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 394, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 55, "key.substructure": [["key.nameoffset": 420, "key.typename": "String", "key.length": 11, "key.name": "key", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 420, "key.namelength": 3], ["key.nameoffset": 433, "key.typename": "NSError?", "key.length": 15, "key.name": "error", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 433, "key.namelength": 5]], "key.name": "failedToLoadAssetMetadata(key:error:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 55, "key.offset": 394][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 459, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 51, "key.substructure": [["key.typename": "AudioChapterManagerError", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 485, "key.length": 24, "key.namelength": 0]], "key.name": "failedToLoadAssetChapters(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 51, "key.offset": 459][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 520, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 31, "key.substructure": [["key.typename": "NSError?", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 542, "key.length": 8, "key.namelength": 0]], "key.name": "failedToDownloadAsset(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 31, "key.offset": 520][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 653, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 31, "key.substructure": [["key.typename": "AudioNetworkError", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 666, "key.length": 17, "key.namelength": 0]], "key.name": "networkError(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 31, "key.offset": 653][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 694, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 22, "key.substructure": [["key.typename": "StatusCode", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 705, "key.length": 10, "key.namelength": 0]], "key.name": "statusCode(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 22, "key.offset": 694][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 726, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 58, "key.substructure": [["key.typename": "AudioAssetEngineDownloadSessionError", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 747, "key.length": 36, "key.namelength": 0]], "key.name": "downloadSessionError(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 58, "key.offset": 726][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 794, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 16, "key.substructure": [["key.typename": "NSError", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 802, "key.length": 7, "key.namelength": 0]], "key.name": "unknown(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 16, "key.offset": 794][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 2729, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 22, "key.substructure": [["key.typename": "StatusCode", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 2740, "key.length": 10, "key.namelength": 0]], "key.name": "statusCode(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 22, "key.offset": 2729][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 7306, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 22, "key.substructure": [["key.typename": "StatusCode", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 7317, "key.length": 10, "key.namelength": 0]], "key.name": "statusCode(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 22, "key.offset": 7306][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 7338, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 31, "key.substructure": [["key.typename": "AudioNetworkError", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 7351, "key.length": 17, "key.namelength": 0]], "key.name": "networkError(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 31, "key.offset": 7338][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 7379, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 21, "key.substructure": [["key.typename": "NSError", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 7392, "key.length": 7, "key.namelength": 0]], "key.name": "parsingError(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 21, "key.offset": 7379][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Core/M3U8.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 217, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 48, "key.substructure": [["key.nameoffset": 225, "key.typename": "String", "key.length": 14, "key.name": "method", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 225, "key.namelength": 6], ["key.nameoffset": 241, "key.typename": "String", "key.length": 11, "key.name": "uri", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 241, "key.namelength": 3], ["key.nameoffset": 254, "key.typename": "String", "key.length": 10, "key.name": "iv", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 254, "key.namelength": 2]], "key.name": "extXKey(method:uri:iv:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 48, "key.offset": 217][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Core/M3U8.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 275, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 37, "key.substructure": [["key.nameoffset": 282, "key.typename": "Double", "key.length": 16, "key.name": "duration", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 282, "key.namelength": 8], ["key.nameoffset": 300, "key.typename": "String", "key.length": 11, "key.name": "uri", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 300, "key.namelength": 3]], "key.name": "extInf(duration:uri:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 37, "key.offset": 275][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Core/M3U8.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 322, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 83, "key.substructure": [["key.nameoffset": 336, "key.typename": "Int?", "key.length": 22, "key.name": "averageBandwidth", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 336, "key.namelength": 16], ["key.nameoffset": 360, "key.typename": "Int", "key.length": 14, "key.name": "bandwidth", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 360, "key.namelength": 9], ["key.nameoffset": 376, "key.typename": "String?", "key.length": 15, "key.name": "codecs", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 376, "key.namelength": 6], ["key.nameoffset": 393, "key.typename": "String", "key.length": 11, "key.name": "uri", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 393, "key.namelength": 3]], "key.name": "extXStreamInf(averageBandwidth:bandwidth:codecs:uri:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 83, "key.offset": 322][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Core/M3U8.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 415, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 14, "key.substructure": [["key.typename": "String", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 422, "key.length": 6, "key.namelength": 0]], "key.name": "custom(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 14, "key.offset": 415][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 349, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 32, "key.substructure": [["key.nameoffset": 366, "key.typename": "CMTime", "key.length": 14, "key.name": "offset", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 366, "key.namelength": 6]], "key.name": "setChapterOffset(offset:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 32, "key.offset": 349][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 395, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 25, "key.substructure": [["key.nameoffset": 405, "key.typename": "CMTime", "key.length": 14, "key.name": "offset", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 405, "key.namelength": 6]], "key.name": "setOffset(offset:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 25, "key.offset": 395][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 434, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 24, "key.substructure": [["key.nameoffset": 445, "key.typename": "Int", "key.length": 12, "key.name": "chapter", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 445, "key.namelength": 7]], "key.name": "setChapter(chapter:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 24, "key.offset": 434][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 472, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 20, "key.substructure": [["key.nameoffset": 480, "key.typename": "Float", "key.length": 11, "key.name": "rate", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 480, "key.namelength": 4]], "key.name": "setRate(rate:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 20, "key.offset": 472][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 506, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 56, "key.substructure": [["key.nameoffset": 520, "key.typename": "AudioPlayerEngineSleepTiming", "key.length": 41, "key.name": "sleepTiming", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 520, "key.namelength": 11]], "key.name": "setSleepTimer(sleepTiming:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 56, "key.offset": 506][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 619, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 27, "key.substructure": [["key.nameoffset": 633, "key.typename": "Int", "key.length": 12, "key.name": "chapter", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 633, "key.namelength": 7]], "key.name": "chapterPaused(chapter:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 27, "key.offset": 619][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 660, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 28, "key.substructure": [["key.nameoffset": 675, "key.typename": "Int", "key.length": 12, "key.name": "chapter", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 675, "key.namelength": 7]], "key.name": "chapterStarted(chapter:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 28, "key.offset": 660][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 702, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 30, "key.substructure": [["key.nameoffset": 719, "key.typename": "Int", "key.length": 12, "key.name": "chapter", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 719, "key.namelength": 7]], "key.name": "chapterCompleted(chapter:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 30, "key.offset": 702][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 774, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 34, "key.substructure": [["key.nameoffset": 791, "key.typename": "CMTime", "key.length": 16, "key.name": "duration", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 791, "key.namelength": 8]], "key.name": "sleepDateExpired(duration:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 34, "key.offset": 774][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 825, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 12, "key.substructure": [["key.typename": "Input", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 831, "key.length": 5, "key.namelength": 0]], "key.name": "input(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 12, "key.offset": 825][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 847, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 14, "key.substructure": [["key.typename": "Output", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 854, "key.length": 6, "key.namelength": 0]], "key.name": "output(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 14, "key.offset": 847][0m
+[02:12:17]: ▸ [35m    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioPlayerEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 638, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 43, "key.substructure": [["key.nameoffset": 0, "key.typename": "TimeInterval", "key.length": 33, "key.name": "durationInSeconds", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 647, "key.namelength": 0]], "key.name": "duration(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 43, "key.offset": 638][0m
+[02:12:17]: [35m[33m▸[0m [39;1mProcessing[0m Info.plist[0m
+[02:12:17]: [35m[33m▸[0m [39;1mCopying[0m DataLayer.h[0m
+[02:12:17]: [35m[33m▸[0m [39;1mProcessing[0m Info.plist[0m
+[02:12:58]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:12:58]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:12:58]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:12:58]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:12:58]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:12:58]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:12:58]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:12:58]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:12:58]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1037:46: [33mcast from 'AnySequence<ABTestV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return abTests.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1039:57: [33mcast from 'AnySequence<ABTestChoiceLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return abTestChoiceLocals.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1041:32: [33mcast from 'AnySequence<AccountInfoV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return accountInfo as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1043:50: [33mcast from 'AnySequence<AnnotationV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return annotations.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1045:35: [33mcast from 'AnySequence<AppPlanUpsellV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return appPlanUpsells as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1047:32: [33mcast from 'AnySequence<AppUpgradeV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return appUpgrades as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1049:51: [33mcast from 'AnySequence<AudioStreamV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return audioStreams.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1051:49: [33mcast from 'AnySequence<AudiobookV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return audiobooks.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1053:56: [33mcast from 'AnySequence<AudiobookChapterV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return audiobookChapters.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1055:56: [33mcast from 'AnySequence<AudiobookSessionV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return audiobookSessions.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1057:54: [33mcast from 'AnySequence<AudiobookTokenV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return audiobookTokens.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1059:59: [33mcast from 'AnySequence<AudiobookTokenCacheV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return audiobookTokenCaches.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1061:41: [33mcast from 'AnySequence<AudiobooksLicenseIDV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return audiobooksLicenseIDs as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1063:64: [33mcast from 'AnySequence<AudiobooksLicenseIDLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return audiobooksLicenseIDLocals.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1065:50: [33mcast from 'AnySequence<CollectionV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return collections.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1067:51: [33mcast from 'AnySequence<ContentTypeV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return contentTypes.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1069:52: [33mcast from 'AnySequence<ContributionV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return contributions.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1071:52: [33mcast from 'AnySequence<CoreDocumentV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return coreDocuments.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1073:55: [33mcast from 'AnySequence<CoreDocumentInfoV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return coreDocumentInfo.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1075:68: [33mcast from 'AnySequence<CreditExpenditureRecordLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return creditExpenditureRecordLocals.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1077:36: [33mcast from 'AnySequence<DiscoverModuleV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return discoverModules as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1079:49: [33mcast from 'AnySequence<DiscoverRecommendedDocumentsV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return discoverRecommendedDocuments as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1081:49: [33mcast from 'AnySequence<DiscoverRecommendedInterestsV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return discoverRecommendedInterests as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1083:48: [33mcast from 'AnySequence<DocumentV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return documents.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1085:51: [33mcast from 'AnySequence<DocumentInfoV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return documentInfo.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1087:59: [33mcast from 'AnySequence<DocumentRestrictionV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return documentRestrictions.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1089:54: [33mcast from 'AnySequence<EditorialBlurbV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return editorialBlurbs.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1091:38: [33mcast from 'AnySequence<EpubsAccessTokenV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return epubsAccessTokens as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1093:38: [33mcast from 'AnySequence<EpubsFontPackageV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return epubsFontPackages as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1095:51: [33mcast from 'AnySequence<FeatureFlagV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return featureFlags.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1097:28: [33mcast from 'AnySequence<FollowV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return follows as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1099:40: [33mcast from 'AnySequence<FollowMagazineListV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return followMagazineLists as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1101:48: [33mcast from 'AnySequence<InterestV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return interests.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1103:41: [33mcast from 'AnySequence<LibraryHistoryLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return libraryHistoryLocals as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1105:42: [33mcast from 'AnySequence<LibrarySyncDataLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return librarySyncDataLocals as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1107:58: [33mcast from 'AnySequence<MobileNotificationV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return mobileNotifications.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1109:45: [33mcast from 'AnySequence<OrderV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return orders.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1111:44: [33mcast from 'AnySequence<PaymentsPaymentProfileV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return paymentsPaymentProfiles as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1113:62: [33mcast from 'AnySequence<PersonalizationFeatureV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return personalizationFeatures.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1115:40: [33mcast from 'AnySequence<PersonalizationInfoV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return personalizationInfo as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1117:44: [33mcast from 'AnySequence<PlanV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return plans.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1119:44: [33mcast from 'AnySequence<PromoV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return promo.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1121:55: [33mcast from 'AnySequence<QuerySuggestionV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return querySuggestions.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1123:46: [33mcast from 'AnySequence<RatingV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return ratings.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1125:53: [33mcast from 'AnySequence<ReaderSessionV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return readerSessions.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1127:54: [33mcast from 'AnySequence<ReadingProgressV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return readingProgress.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1129:52: [33mcast from 'AnySequence<ReadingStateV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return readingStates.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1131:46: [33mcast from 'AnySequence<ReviewV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return reviews.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1133:50: [33mcast from 'AnySequence<ReviewVoteV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return reviewVotes.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1135:54: [33mcast from 'AnySequence<SearchV2ModuleV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return searchV2Modules.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1137:58: [33mcast from 'AnySequence<SearchV2ModuleItemV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return searchV2ModuleItems.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1139:39: [33mcast from 'AnySequence<SearchV2StructureV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return searchV2Structures as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1141:50: [33mcast from 'AnySequence<ShareQuoteV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return shareQuotes.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1143:60: [33mcast from 'AnySequence<SubscriptionReferralV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return subscriptionReferrals.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1145:49: [33mcast from 'AnySequence<SubscriptionReferralsClaimedV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return subscriptionReferralsClaimed as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1147:48: [33mcast from 'AnySequence<SummaryV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return summaries.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1149:39: [33mcast from 'AnySequence<SupportChatEnabledV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return supportChatEnabled as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1151:45: [33mcast from 'AnySequence<UnavailableRequestTitleV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return unavailableRequestTitles as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1153:44: [33mcast from 'AnySequence<UserV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return users.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1155:68: [33mcast from 'AnySequence<UserCollectionDocumentsLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return userCollectionDocumentsLocals.orderedValues.any as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1157:38: [33mcast from 'AnySequence<UserSessionLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return userSessionLocals as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1159:41: [33mcast from 'AnySequence<UsersReadingProgressV2>' to unrelated type 'AnySequence<E>' always fails[0m
+[02:15:29]: ▸ [35m            return usersReadingProgress as? AnySequence<E> ?? [].any[0m
+[02:15:29]: ▸ [35m[36m                   ~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Managers/AudiobookAnalyticsManager.swift:47:13: [33mimmutable property will not be decoded because it is declared with an initial value which cannot be overwritten[0m
+[02:15:29]: ▸ [35m        let apiVersion = "4.0"[0m
+[02:15:29]: ▸ [35m[36m            ^[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Managers/AudiobookAnalyticsManager.swift:55:20: [33mimmutable property will not be decoded because it is declared with an initial value which cannot be overwritten[0m
+[02:15:29]: ▸ [35m        public let name = "iOS"[0m
+[02:15:29]: ▸ [35m[36m        ~~~ ^[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Managers/AudiobookAnalyticsManager.swift:62:9: [33mimmutable property will not be decoded because it is declared with an initial value which cannot be overwritten[0m
+[02:15:29]: ▸ [35m    let system = System()[0m
+[02:15:29]: ▸ [35m[36m        ~~~~~~     ^[0m
+[02:15:29]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Extensions/LibraryHistoryLocalV2+Extras.swift:31:13: [33mdefault will never be executed[0m
+[02:15:29]: ▸ [35m            default:[0m
+[02:15:29]: ▸ [35m[36m    ~~~ ^[0m
+[02:15:29]: [35m[33m▸[0m [39;1mLinking[0m SiriExtension[0m
+[02:15:29]: [35m[33m▸[0m [39;1mGenerating 'SiriExtension.appex.dSYM'[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:15:29]: [35m[33m▸[0m [39;1mTouching[0m SiriExtension.appex (in target 'SiriExtension' from project 'irando-app')[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCompiling[0m SCAudioPlayer_vers.c[0m
+[02:15:29]: [35m[33m▸[0m [39;1mLinking[0m SCAudioPlayer[0m
+[02:15:29]: [35m[33m▸[0m [39;1mGenerating 'SCAudioPlayer.framework.dSYM'[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m SCAudioPlayer.h[0m
+[02:15:29]: [35m[33m▸[0m [39;1mTouching[0m SCAudioPlayer.framework (in target 'SCAudioPlayer-iOS' from project 'rando-appbasic')[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCompiling[0m ViewLayer_vers.c[0m
+[02:15:29]: [35m[33m▸[0m [39;1mLinking[0m ViewLayer[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/ViewLayer/ViewLayer/Components/Font/FontFiles/SourceSansPro-SemiboldIt.ttf[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/ViewLayer/ViewLayer/Components/Font/FontFiles/SourceSansPro-Regular.ttf[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/ViewLayer/ViewLayer/Components/Font/FontFiles/SourceSansPro-Semibold.ttf[0m
+[02:15:29]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/ViewLayer/ViewLayer/Components/Font/FontFiles/SourceSansPro-It.ttf[0m
+[02:15:29]: [35m[33m▸[0m [39;1mProcessing[0m Info.plist[0m
+[02:15:29]: [35m[33m▸[0m [39;1mRunning script[0m 'Build ImageCatalog with SwiftGen'[0m
+[02:15:29]: [35m[33m▸[0m [39;1mGenerating 'ViewLayer.framework.dSYM'[0m
+[02:15:29]: [35m[33m▸[0m [39;1mTouching[0m ViewLayer.framework (in target 'ViewLayer-iOS' from project 'ViewLayer')[0m
+[02:15:30]: [35m[33m▸[0m [39;1mCompiling[0m DataLayer_vers.c[0m
+[02:15:30]: [35m[33m▸[0m [39;1mLinking[0m DataLayer[0m
+[02:15:32]: [35m[33m▸[0m [39;1mGenerating 'DataLayer.framework.dSYM'[0m
+[02:15:34]: [35m[33m▸[0m [39;1mTouching[0m DataLayer.framework (in target 'DataLayer-iOS' from project 'DataLayer')[0m
+[02:15:35]: [35m[33m▸[0m [39;1mProcessing[0m Info.plist[0m
+[02:15:53]: ▸ [35m[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/API/API/Core/Utils/Event.swift:119:19: [33mvalue 'invocable' was defined but never used; consider replacing with boolean test[0m
+[02:15:53]: ▸ [35m        guard let invocable = eventInfoRemove(withIdentifier: identifier) else { return }[0m
+[02:15:53]: ▸ [35m[36m            ^[0m
+[02:15:53]: [35m[33m▸[0m [39;1mCompiling[0m SCEvent.m[0m
+[02:16:24]: [35m[33m▸[0m [39;1mCompiling[0m _SCDPromoAction.m[0m
+[02:16:24]: [35m[33m▸[0m [39;1mCompiling[0m SCDPromo.m[0m
+[02:16:25]: [35m[33m▸[0m [39;1mCompiling[0m SCCoreDataController.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m _SCDPromo.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m _SCDAudiobookTimeTracking.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m SCObjectInflator.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m SCManagedObject.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m SCDPromoAction.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m SCConstants.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m SCAnalyticsConstants.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m SCAPIResponse.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m SCAPIRequest.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m SCAPIIConstants.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m NSString+Core.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m NSManagedObjectContext+SCAdditions.m[0m
+[02:16:40]: [35m[33m▸[0m [39;1mCompiling[0m API_vers.c[0m
+[02:16:40]: [35m[33m▸[0m [39;1mLinking[0m API[0m
+[02:16:43]: [35m[33m▸[0m [39;1mCopying[0m SCDPromoAction.h[0m
+[02:16:44]: [35m[33m▸[0m [39;1mCopying[0m SCManagedObject.h[0m
+[02:16:44]: [35m[33m▸[0m [39;1mCopying[0m SCDPromo.h[0m
+[02:16:44]: [35m[33m▸[0m [39;1mGenerating 'API.framework.dSYM'[0m
+[02:16:44]: [35m[33m▸[0m [39;1mCopying[0m _SCDPromoAction.h[0m
+[02:16:44]: [35m[33m▸[0m [39;1mCopying[0m _SCDPromo.h[0m
+[02:16:44]: [35m[33m▸[0m [39;1mCopying[0m _SCDAudiobookTimeTracking.h[0m
+[02:16:44]: [35m[33m▸[0m [39;1mCopying[0m SCEvent.h[0m
+[02:16:44]: [35m[33m▸[0m [39;1mCopying[0m SCHTTPResponseStatusCodes.h[0m
+[02:16:44]: [35m[33m▸[0m [39;1mCopying[0m SCAnalyticsObject.h[0m
+[02:16:44]: [35m[33m▸[0m [39;1mCopying[0m SCAnalyticsIdentifiableElement.h[0m
+[02:16:44]: [35m[33m▸[0m [39;1mCopying[0m SCAPIResponse.h[0m
+[02:16:44]: [35m[33m▸[0m [39;1mCopying[0m SCAPIRequest.h[0m
+[02:16:45]: [35m[33m▸[0m [39;1mCopying[0m SCAPIITypes.h[0m
+[02:16:45]: [35m[33m▸[0m [39;1mCopying[0m SCMacros.h[0m
+[02:16:45]: [35m[33m▸[0m [39;1mCopying[0m NSString+Core.h[0m
+[02:16:45]: [35m[33m▸[0m [39;1mCopying[0m NSManagedObjectContext+SCAdditions.h[0m
+[02:16:45]: [35m[33m▸[0m [39;1mCopying[0m SCObjectInflator.h[0m
+[02:16:45]: [35m[33m▸[0m [39;1mCopying[0m SCCoreDataController.h[0m
+[02:16:45]: [35m[33m▸[0m [39;1mCopying[0m SCConstants.h[0m
+[02:16:45]: [35m[33m▸[0m [39;1mCopying[0m SCAnalyticsConstants.h[0m
+[02:16:45]: [35m[33m▸[0m [39;1mCopying[0m SCAPIIConstants.h[0m
+[02:16:45]: [35m[33m▸[0m [39;1mCopying[0m API.h[0m
+[02:16:46]: [35m[33m▸[0m [39;1mTouching[0m API.framework (in target 'API-iOS' from project 'API')[0m
+[02:16:46]: [35m[33m▸[0m [39;1mRunning script[0m 'Weaver'[0m
+[02:16:52]: [35m[33m▸[0m [39;1mRunning script[0m 'Apply custom patches to Carthage frameworks'[0m
+[02:16:52]: [35m[33m▸[0m [39;1mRunning script[0m 'Begin Compile Phase...Go make a cup of tea'[0m
+[02:16:53]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:16:53]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:16:53]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:16:53]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:16:53]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:16:53]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:16:53]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:16:53]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:16:54]: [35m[33m▸[0m [39;1mCopying[0m ReaderIntents.strings[0m
+[02:24:28]: [35m[33m▸[0m [39;1mPrecompiling[0m /Users/runner/work/irando-app/irando-app/irando-app-Prefix.pch[0m
+[02:24:32]: [35m[33m▸[0m [39;1mCompiling[0m SCWrappingLabel.m[0m
+[02:24:33]: [35m[33m▸[0m [39;1mCompiling[0m SCStackedButtonsContainerView.m[0m
+[02:24:35]: [35m[33m▸[0m [39;1mCompiling[0m SCSettingsAnalyticsLogger.m[0m
+[02:24:38]: [35m[33m▸[0m [39;1mCompiling[0m __Reachability.m[0m
+[02:24:38]: [35m[33m▸[0m [39;1mCompiling[0m UIViewController+SCAdditions.m[0m
+[02:24:38]: [35m[33m▸[0m [39;1mCompiling[0m UIResponder+OverrideContextMenuItems.m[0m
+[02:24:38]: [35m[33m▸[0m [39;1mCompiling[0m UIImageView+SCAnimations.m[0m
+[02:24:38]: [35m[33m▸[0m [39;1mCompiling[0m UIButton+InvitationType.m[0m
+[02:24:38]: [35m[33m▸[0m [39;1mCompiling[0m SCWatchdog.m[0m
+[02:24:38]: [35m[33m▸[0m [39;1mCompiling[0m SCViewHelper.m[0m
+[02:24:38]: [35m[33m▸[0m [39;1mCompiling[0m SCURLCache.m[0m
+[02:24:38]: [35m[33m▸[0m [39;1mCompiling[0m SCShareToFacebookActivity.m[0m
+[02:24:38]: [35m[33m▸[0m [39;1mCompiling[0m SCSettingsWireframe.m[0m
+[02:24:40]: [35m[33m▸[0m [39;1mCompiling[0m SCRuntimeHelperFunctions.m[0m
+[02:24:40]: [35m[33m▸[0m [39;1mCompiling[0m SCReferralsPresenter.m[0m
+[02:24:40]: [35m[33m▸[0m [39;1mCompiling[0m SCReferralInvitationDataSource.m[0m
+[02:24:40]: [35m[33m▸[0m [39;1mCompiling[0m SCRecommendationsLogger.m[0m
+[02:24:41]: [35m[33m▸[0m [39;1mCompiling[0m SCReaderViewController.m[0m
+[02:24:42]: [35m[33m▸[0m [39;1mCompiling[0m SCReaderTimerHelper.m[0m
+[02:24:42]: [35m[33m▸[0m [39;1mCompiling[0m SCReaderResponsivenessVerifier.m[0m
+[02:24:42]: [35m[33m▸[0m [39;1mCompiling[0m SCReaderLoadingView.m[0m
+[02:24:42]: [35m[33m▸[0m [39;1mCompiling[0m SCProfileImageModel.m[0m
+[02:24:42]: [35m[33m▸[0m [39;1mCompiling[0m SCPrincipalTabBarController.m[0m
+[02:24:42]: [35m[33m▸[0m [39;1mCompiling[0m SCNightlyAssertionHandler.m[0m
+[02:24:42]: [35m[33m▸[0m [39;1mCompiling[0m SCMimeHelper.m[0m
+[02:24:42]: [35m[33m▸[0m [39;1mCompiling[0m SCLogLevelMapper.m[0m
+[02:24:44]: [35m[33m▸[0m [39;1mCompiling[0m SCJoinedFriendsViewModel.m[0m
+[02:24:44]: [35m[33m▸[0m [39;1mCompiling[0m SCJoinedFriendsViewController.m[0m
+[02:24:44]: [35m[33m▸[0m [39;1mCompiling[0m SCJoinedFriendsTableViewDelegate.m[0m
+[02:24:44]: [35m[33m▸[0m [39;1mCompiling[0m SCJoinedFriendsTableViewDataSource.m[0m
+[02:24:44]: [35m[33m▸[0m [39;1mCompiling[0m SCJoinedFriendsTableHeaderContainerView.m[0m
+[02:24:44]: [35m[33m▸[0m [39;1mCompiling[0m SCJoinedFriendTableViewCell.m[0m
+[02:24:44]: [35m[33m▸[0m [39;1mCompiling[0m SCJoinedFriendCellModel.m[0m
+[02:24:44]: [35m[33m▸[0m [39;1mCompiling[0m SCInviteFriendsViewModel.m[0m
+[02:24:44]: [35m[33m▸[0m [39;1mCompiling[0m SCInviteFriendsViewController.m[0m
+[02:24:44]: [35m[33m▸[0m [39;1mCompiling[0m SCInviteBySystemShareService.m[0m
+[02:24:46]: [35m[33m▸[0m [39;1mCompiling[0m SCInviteByMessageService.m[0m
+[02:24:46]: [35m[33m▸[0m [39;1mCompiling[0m SCInviteByMailService.m[0m
+[02:24:46]: [35m[33m▸[0m [39;1mCompiling[0m SCInviteByFacebookPostService.m[0m
+[02:24:46]: [35m[33m▸[0m [39;1mCompiling[0m SCInviteButtonModelFactory.m[0m
+[02:24:46]: [35m[33m▸[0m [39;1mCompiling[0m SCInviteButtonModel.m[0m
+[02:24:46]: [35m[33m▸[0m [39;1mCompiling[0m SCInviteButtonFactory.m[0m
+[02:24:46]: [35m[33m▸[0m [39;1mCompiling[0m SCInviteAndJoinedFriendsViewModel.m[0m
+[02:24:46]: [35m[33m▸[0m [39;1mCompiling[0m SCInviteAndJoinedFriendsViewController.m[0m
+[02:24:46]: [35m[33m▸[0m [39;1mCompiling[0m SCInviteAndJoinedFriendsTableHeaderContainerView.m[0m
+[02:24:46]: [35m[33m▸[0m [39;1mCompiling[0m SCInvitationSender.m[0m
+[02:24:46]: [35m[33m▸[0m [39;1mCompiling[0m SCInvitationLogger.m[0m
+[02:24:47]: [35m[33m▸[0m [39;1mCompiling[0m SCInvitation.m[0m
+[02:24:48]: [35m[33m▸[0m [39;1mCompiling[0m SCIntroTextHeaderView.m[0m
+[02:24:48]: [35m[33m▸[0m [39;1mCompiling[0m SCImageViewController.m[0m
+[02:24:48]: [35m[33m▸[0m [39;1mCompiling[0m SCHandoffManager.m[0m
+[02:24:49]: [35m[33m▸[0m [39;1mCompiling[0m SCFileAdapter.m[0m
+[02:24:50]: [35m[33m▸[0m [39;1mCompiling[0m SCFacebookSharer.m[0m
+[02:24:50]: [35m[33m▸[0m [39;1mCompiling[0m SCFacebookShareableInvite.m[0m
+[02:24:50]: [35m[33m▸[0m [39;1mCompiling[0m SCFacebookShareLogger.m[0m
+[02:24:50]: [35m[33m▸[0m [39;1mCompiling[0m SCFacebookSDKDelegate.m[0m
+[02:24:50]: [35m[33m▸[0m [39;1mCompiling[0m SCFacebook4ShareService.m[0m
+[02:24:50]: [35m[33m▸[0m [39;1mCompiling[0m SCExternalWebpageViewController.m[0m
+[02:24:50]: [35m[33m▸[0m [39;1mCompiling[0m SCEndOfListeningNotificationsInteractor.m[0m
+[02:24:51]: [35m[33m▸[0m [39;1mCompiling[0m SCEPUBWebView.m[0m
+[02:24:51]: [35m[33m▸[0m [39;1mCompiling[0m SCEPUBViewerInstanceManager.m[0m
+[02:24:51]: [35m[33m▸[0m [39;1mCompiling[0m SCEPUBViewController.m[0m
+[02:24:54]: [35m[33m▸[0m [39;1mCompiling[0m SCEPUBSearchMatch.m[0m
+[02:24:54]: [35m[33m▸[0m [39;1mCompiling[0m SCEPUBScriptController.m[0m
+[02:24:54]: [35m[33m▸[0m [39;1mCompiling[0m SCEPUBReaderView.m[0m
+[02:24:54]: [35m[33m▸[0m [39;1mCompiling[0m SCEPUBChapter.m[0m
+[02:24:54]: [35m[33m▸[0m [39;1mCompiling[0m SCDecoratedCenteredDividerView.m[0m
+[02:24:54]: [35m[33m▸[0m [39;1mCompiling[0m SCDebugAssertionHandler.m[0m
+[02:24:54]: [35m[33m▸[0m [39;1mCompiling[0m SCDAudiobookTimeTracking.m[0m
+[02:24:54]: [35m[33m▸[0m [39;1mCompiling[0m SCCompanionMetadataProvider.m[0m
+[02:24:54]: [35m[33m▸[0m [39;1mCompiling[0m SCCompanionMetadataForDownloadedDocument.m[0m
+[02:24:55]: [35m[33m▸[0m [39;1mCompiling[0m SCChevronImageFactory.m[0m
+[02:24:55]: [35m[33m▸[0m [39;1mCompiling[0m SCBugReportMailer.m[0m
+[02:24:55]: [35m[33m▸[0m [39;1mCompiling[0m SCBugReportLogger.m[0m
+[02:24:55]: [35m[33m▸[0m [39;1mCompiling[0m SCBugReportLogFormatter.m[0m
+[02:24:55]: [35m[33m▸[0m [39;1mCompiling[0m SCBugReportHelper.m[0m
+[02:24:56]: [35m[33m▸[0m [39;1mCompiling[0m SCBrowseDocumentsHeaderReusableView.m[0m
+[02:24:57]: [35m[33m▸[0m [39;1mCompiling[0m SCAudiobookCreditsViewModel.m[0m
+[02:24:57]: [35m[33m▸[0m [39;1mCompiling[0m SCAudiobookCreditsView.m[0m
+[02:24:57]: [35m[33m▸[0m [39;1mCompiling[0m SCAppsFlyerManager.m[0m
+[02:24:58]: [35m[33m▸[0m [39;1mCompiling[0m SCAppsFlyerLoginStateTracker.m[0m
+[02:24:59]: [35m[33m▸[0m [39;1mCompiling[0m SCAnalyticsV1.m[0m
+[02:24:59]: [35m[33m▸[0m [39;1mCompiling[0m SCAnalyticsEventBatch.m[0m
+[02:24:59]: [35m[33m▸[0m [39;1mCompiling[0m SCAnalyticsErrorLogger.m[0m
+[02:24:59]: [35m[33m▸[0m [39;1mCompiling[0m SCAnalyticsAPI.m[0m
+[02:25:00]: [35m[33m▸[0m [39;1mCompiling[0m SCAPIIObjectParser.m[0m
+[02:25:00]: [35m[33m▸[0m [39;1mCompiling[0m SCAPIIHelpers.m[0m
+[02:25:00]: [35m[33m▸[0m [39;1mCompiling[0m SCAPII.m[0m
+[02:25:03]: [35m[33m▸[0m [39;1mCompiling[0m SC3DTouchManager.m[0m
+[02:25:03]: [35m[33m▸[0m [39;1mCompiling[0m NSURL+SCURLParser.m[0m
+[02:25:03]: [35m[33m▸[0m [39;1mCompiling[0m NSThread+SCDebugMode.m[0m
+[02:25:03]: [35m[33m▸[0m [39;1mCompiling[0m NSString+SCAdditions.m[0m
+[02:25:03]: [35m[33m▸[0m [39;1mCompiling[0m NSObject+SCOverrideKeyCommands.m[0m
+[02:25:03]: [35m[33m▸[0m [39;1mCompiling[0m NSHTTPURLResponse+SCAdditions.m[0m
+[02:25:03]: [35m[33m▸[0m [39;1mCompiling[0m NSException+SCAdditions.m[0m
+[02:25:03]: [35m[33m▸[0m [39;1mCompiling[0m NSError+SCFacebookErrorLogging.m[0m
+[02:25:03]: [35m[33m▸[0m [39;1mCompiling[0m NSDate+SCAdditions.m[0m
+[02:25:03]: [35m[33m▸[0m [39;1mCompiling[0m NSData+SCPushNotificationToken.m[0m
+[02:25:03]: [35m[33m▸[0m [39;1mCompiling[0m NSAssertSwiftHelper.m[0m
+[02:25:03]: [35m[33m▸[0m [39;1mLinking[0m irando-app[0m
+[02:25:03]: ▸ [35m[33m⚠️  ld: directory not found for option '-F/Users/runner/work/irando-app/irando-app/Carthage/Checkouts/zendesk_sdk_chat_ios'[0m
+[02:25:07]: ▸ [35m[33m⚠️  ld: method '-facebookLoggingParameters' in category from /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app Enterprise/IntermediateBuildFilesPath/irando-app.build/Release_Enterprise-iphoneos/irando-app.build/Objects-normal/arm64/Error+FacebookLogging.o conflicts with same method from another category[0m
+[02:25:09]: [35m[33m▸[0m [39;1mRunning script[0m 'Creating Acknowledgements'[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/irando-app.entitlements[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/jquery-1.10.0.min.js[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Settings.bundle[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/rando-app-app-icon.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/note-icon.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/vollkorn-i-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/vollkorn-bi-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/vollkorn-b-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/vollkorn--.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-sc-offc-pro-i-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-sc-offc-pro-bi-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-sc-offc-pro-b-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-sc-offc-pro--.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-offc-pro-i-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-offc-pro-bi-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-offc-pro-b-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-offc-pro--.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/scala-sans--.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/scala--.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text-i-sc.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text-i-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text-bi-sc.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text-bi-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text-b-sc.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text-b-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text--sc.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text--.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/din-offc-pro-medium-i-sc.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/din-offc-pro-medium--sc.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/din-offc-pro-i-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/din-offc-pro-bi-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/din-offc-pro-b-.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/din-offc-pro--.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/ScalaSansOffc-Ita.ttf[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-watch-Debug.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Shared.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Release_Enterprise_Testflight.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Release_Enterprise.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Release_AppStore.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Debug_Test.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Debug_AppStore.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Debug.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Shared.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Release_Enterprise_Testflight.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Release_Enterprise.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Release_AppStore.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Debug_Test.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Debug_AppStore.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Debug.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Shared.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Release_Enterprise_Testflight.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Release_Enterprise.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Release_AppStore.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Debug_Test.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Debug_AppStore.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Debug.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Shared.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Release_Enterprise_Testflight.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Release_Enterprise.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Release_AppStore.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Debug_Test.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Debug_AppStore.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Debug.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/SharedProjectSettings.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/EnterpriseSettings.xcconfig[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Classes/FakePersonalizationJSON.json[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Classes/ArticleReader.js[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m Localizable.strings[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m Localizable.strings[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m Localizable.strings[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m Localizable.strings[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m Localizable.strings[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m Localizable.strings[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m Localizable.strings[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m Localizable.strings[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m Localizable.strings[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m GoogleService-Info.plist[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:25:09]: [35m[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist[0m
+[02:25:15]: [35m[33m▸[0m [39;1mCompiling[0m Launch\ Screen.storyboard[0m
+[02:25:18]: [35m[33m▸[0m [39;1mProcessing[0m irando-app-Info.plist[0m
+[02:25:19]: [35m[33m▸[0m [39;1mGenerating 'irando-app.app.dSYM'[0m
+[02:25:23]: [35m[33m▸[0m [39;1mRunning script[0m 'Touch'[0m
+[02:25:23]: [35m[33m▸[0m [39;1mRunning script[0m 'Copy Stores for Migration Testing'[0m
+[02:25:23]: [35m[33m▸[0m [39;1mRunning script[0m 'Git Hash Script'[0m
+[02:25:23]: [35m[33m▸[0m [39;1mRunning script[0m 'Crashlytics Configuration Script'[0m
+[02:25:23]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app\ Enterprise/BuildProductsPath/Release_Enterprise-iphoneos/SiriExtension.appex[0m
+[02:25:23]: ▸ [35m    [33mskipping copy phase strip, binary is code signed: /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app Enterprise/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/SiriExtension.appex/SiriExtension (in target 'irando-app' from project 'irando-app')[0m
+[02:25:23]: [35m[33m▸[0m [39;1mRunning script[0m 'SwiftLint Script'[0m
+[02:25:23]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app\ Enterprise/BuildProductsPath/Release_Enterprise-iphoneos/ViewLayer.framework[0m
+[02:25:25]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app\ Enterprise/BuildProductsPath/Release_Enterprise-iphoneos/SCAudioPlayer.framework[0m
+[02:25:25]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app\ Enterprise/BuildProductsPath/Release_Enterprise-iphoneos/DataLayer.framework[0m
+[02:25:25]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app\ Enterprise/BuildProductsPath/Release_Enterprise-iphoneos/API.framework[0m
+[02:25:25]: [35m[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Vendor/WazeAudio/WazeAudio.framework[0m
+[02:25:25]: ▸ [35m    [33mskipping copy phase strip, binary is code signed: /Users/runner/work/irando-app/irando-app/Vendor/WazeAudio/WazeAudio.framework/WazeAudio (in target 'irando-app' from project 'irando-app')[0m
+[02:25:31]: [35m[33m▸[0m [39;1mRunning script[0m 'Strip iPhone Simulator Architectures When Building For Archive Script'[0m
+[02:25:33]: [35m[33m▸[0m [39;1mRunning script[0m 'Carthage Copy Frameworks'[0m
+[02:25:33]: ▸ [35m** ARCHIVE FAILED **[0m
+[02:25:33]: ▸ [35mThe following build commands failed:[0m
+[02:25:33]: ▸ [35m	PhaseScriptExecution Carthage\ Copy\ Frameworks /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app\ Enterprise/IntermediateBuildFilesPath/irando-app.build/Release_Enterprise-iphoneos/irando-app.build/Script-C9FB9BD41DDB9E5E002BBBA2.sh[0m
+[02:25:33]: ▸ [35m(1 failure)[0m
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/rouge-2.0.7/lib/rouge/lexers/shell.rb:20: warning: already initialized constant Rouge::Lexers::Shell::KEYWORDS
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/rouge-2.0.7/lib/rouge/lexers/shell.rb:20: warning: previous definition of KEYWORDS was here
+/Users/runner/work/irando-app/irando-app/Vendor/bundle/ruby/2.5.0/gems/rouge-2.0.7/lib/rouge/lexers/shell.rb:25: warning: already initialized constant Rouge::Lexers::Shell::BUILTINS
+/Users/runner/work/irando-app/irando-app/vendor/bundle/ruby/2.5.0/gems/rouge-2.0.7/lib/rouge/lexers/shell.rb:25: warning: previous definition of BUILTINS was here
+[33m▸[0m [39;1mCopying[0m ViewLayer.h
+[33m▸[0m [39;1mProcessing[0m Info.plist
+[33m▸[0m [39;1mRunning script[0m 'Sourcery'
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Core/StatusCode.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 306, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 18, "key.substructure": [["key.typename": "String", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 314, "key.length": 9, "key.namelength": 0]], "key.name": "unknown(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 18, "key.offset": 306][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Managers/AudioLocalizedStringManager.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 370, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 55, "key.substructure": [["key.typename": "AudioAsset", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 378, "key.length": 10, "key.namelength": 0], ["key.nameoffset": 390, "key.typename": "Int", "key.length": 10, "key.name": "index", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 390, "key.namelength": 5], ["key.nameoffset": 402, "key.typename": "Bool", "key.length": 22, "key.name": "interpolateCount", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 402, "key.namelength": 16]], "key.name": "chapter(_:index:interpolateCount:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 55, "key.offset": 370][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioAssetEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 3368, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 20, "key.substructure": [["key.typename": "String", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 3381, "key.length": 6, "key.namelength": 0]], "key.name": "jsonWebToken(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 20, "key.offset": 3368][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioAssetEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 3402, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 69, "key.substructure": [["key.nameoffset": 3429, "key.typename": "String", "key.length": 21, "key.name": "playlistToken", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 3429, "key.namelength": 13], ["key.nameoffset": 3452, "key.typename": "String", "key.length": 18, "key.name": "sessionKey", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 3452, "key.namelength": 10]], "key.name": "playlistTokenAndSessionKey(playlistToken:sessionKey:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 69, "key.offset": 3402][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioAssetEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 22431, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 46, "key.substructure": [["key.typename": "URLSessionDownloadTask", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 22454, "key.length": 22, "key.namelength": 0]], "key.name": "urlSessionDownloadTask(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 46, "key.offset": 22431][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioAssetEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 22503, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 38, "key.substructure": [["key.typename": "AVAssetDownloadTask", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 22521, "key.length": 19, "key.namelength": 0]], "key.name": "assetDownloadTask(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 38, "key.offset": 22503][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioAssetEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 46548, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 32, "key.substructure": [["key.nameoffset": 46563, "key.typename": "Bool", "key.length": 16, "key.name": "isDownload", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 46563, "key.namelength": 10]], "key.name": "masterPlaylist(isDownload:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 32, "key.offset": 46548][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioAssetEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 46598, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 26, "key.substructure": [["key.nameoffset": 46607, "key.typename": "Bool", "key.length": 16, "key.name": "isDownload", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 46607, "key.namelength": 10]], "key.name": "playlist(isDownload:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 26, "key.offset": 46598][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 394, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 55, "key.substructure": [["key.nameoffset": 420, "key.typename": "String", "key.length": 11, "key.name": "key", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 420, "key.namelength": 3], ["key.nameoffset": 433, "key.typename": "NSError?", "key.length": 15, "key.name": "error", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 433, "key.namelength": 5]], "key.name": "failedToLoadAssetMetadata(key:error:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 55, "key.offset": 394][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 459, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 51, "key.substructure": [["key.typename": "AudioChapterManagerError", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 485, "key.length": 24, "key.namelength": 0]], "key.name": "failedToLoadAssetChapters(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 51, "key.offset": 459][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 520, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 31, "key.substructure": [["key.typename": "NSError?", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 542, "key.length": 8, "key.namelength": 0]], "key.name": "failedToDownloadAsset(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 31, "key.offset": 520][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 653, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 31, "key.substructure": [["key.typename": "AudioNetworkError", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 666, "key.length": 17, "key.namelength": 0]], "key.name": "networkError(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 31, "key.offset": 653][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 694, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 22, "key.substructure": [["key.typename": "StatusCode", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 705, "key.length": 10, "key.namelength": 0]], "key.name": "statusCode(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 22, "key.offset": 694][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 726, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 58, "key.substructure": [["key.typename": "AudioAssetEngineDownloadSessionError", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 747, "key.length": 36, "key.namelength": 0]], "key.name": "downloadSessionError(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 58, "key.offset": 726][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 794, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 16, "key.substructure": [["key.typename": "NSError", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 802, "key.length": 7, "key.namelength": 0]], "key.name": "unknown(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 16, "key.offset": 794][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 2729, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 22, "key.substructure": [["key.typename": "StatusCode", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 2740, "key.length": 10, "key.namelength": 0]], "key.name": "statusCode(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 22, "key.offset": 2729][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 7306, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 22, "key.substructure": [["key.typename": "StatusCode", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 7317, "key.length": 10, "key.namelength": 0]], "key.name": "statusCode(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 22, "key.offset": 7306][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 7338, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 31, "key.substructure": [["key.typename": "AudioNetworkError", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 7351, "key.length": 17, "key.namelength": 0]], "key.name": "networkError(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 31, "key.offset": 7338][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioError.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 7379, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 21, "key.substructure": [["key.typename": "NSError", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 7392, "key.length": 7, "key.namelength": 0]], "key.name": "parsingError(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 21, "key.offset": 7379][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Core/M3U8.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 217, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 48, "key.substructure": [["key.nameoffset": 225, "key.typename": "String", "key.length": 14, "key.name": "method", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 225, "key.namelength": 6], ["key.nameoffset": 241, "key.typename": "String", "key.length": 11, "key.name": "uri", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 241, "key.namelength": 3], ["key.nameoffset": 254, "key.typename": "String", "key.length": 10, "key.name": "iv", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 254, "key.namelength": 2]], "key.name": "extXKey(method:uri:iv:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 48, "key.offset": 217][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Core/M3U8.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 275, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 37, "key.substructure": [["key.nameoffset": 282, "key.typename": "Double", "key.length": 16, "key.name": "duration", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 282, "key.namelength": 8], ["key.nameoffset": 300, "key.typename": "String", "key.length": 11, "key.name": "uri", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 300, "key.namelength": 3]], "key.name": "extInf(duration:uri:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 37, "key.offset": 275][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Core/M3U8.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 322, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 83, "key.substructure": [["key.nameoffset": 336, "key.typename": "Int?", "key.length": 22, "key.name": "averageBandwidth", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 336, "key.namelength": 16], ["key.nameoffset": 360, "key.typename": "Int", "key.length": 14, "key.name": "bandwidth", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 360, "key.namelength": 9], ["key.nameoffset": 376, "key.typename": "String?", "key.length": 15, "key.name": "codecs", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 376, "key.namelength": 6], ["key.nameoffset": 393, "key.typename": "String", "key.length": 11, "key.name": "uri", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 393, "key.namelength": 3]], "key.name": "extXStreamInf(averageBandwidth:bandwidth:codecs:uri:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 83, "key.offset": 322][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Core/M3U8.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 415, "key.accessibility": "source.lang.swift.accessibility.internal", "key.length": 14, "key.substructure": [["key.typename": "String", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 422, "key.length": 6, "key.namelength": 0]], "key.name": "custom(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 14, "key.offset": 415][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 349, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 32, "key.substructure": [["key.nameoffset": 366, "key.typename": "CMTime", "key.length": 14, "key.name": "offset", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 366, "key.namelength": 6]], "key.name": "setChapterOffset(offset:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 32, "key.offset": 349][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 395, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 25, "key.substructure": [["key.nameoffset": 405, "key.typename": "CMTime", "key.length": 14, "key.name": "offset", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 405, "key.namelength": 6]], "key.name": "setOffset(offset:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 25, "key.offset": 395][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 434, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 24, "key.substructure": [["key.nameoffset": 445, "key.typename": "Int", "key.length": 12, "key.name": "chapter", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 445, "key.namelength": 7]], "key.name": "setChapter(chapter:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 24, "key.offset": 434][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 472, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 20, "key.substructure": [["key.nameoffset": 480, "key.typename": "Float", "key.length": 11, "key.name": "rate", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 480, "key.namelength": 4]], "key.name": "setRate(rate:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 20, "key.offset": 472][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 506, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 56, "key.substructure": [["key.nameoffset": 520, "key.typename": "AudioPlayerEngineSleepTiming", "key.length": 41, "key.name": "sleepTiming", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 520, "key.namelength": 11]], "key.name": "setSleepTimer(sleepTiming:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 56, "key.offset": 506][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 619, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 27, "key.substructure": [["key.nameoffset": 633, "key.typename": "Int", "key.length": 12, "key.name": "chapter", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 633, "key.namelength": 7]], "key.name": "chapterPaused(chapter:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 27, "key.offset": 619][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 660, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 28, "key.substructure": [["key.nameoffset": 675, "key.typename": "Int", "key.length": 12, "key.name": "chapter", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 675, "key.namelength": 7]], "key.name": "chapterStarted(chapter:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 28, "key.offset": 660][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 702, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 30, "key.substructure": [["key.nameoffset": 719, "key.typename": "Int", "key.length": 12, "key.name": "chapter", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 719, "key.namelength": 7]], "key.name": "chapterCompleted(chapter:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 30, "key.offset": 702][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 774, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 34, "key.substructure": [["key.nameoffset": 791, "key.typename": "CMTime", "key.length": 16, "key.name": "duration", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 791, "key.namelength": 8]], "key.name": "sleepDateExpired(duration:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 34, "key.offset": 774][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 825, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 12, "key.substructure": [["key.typename": "Input", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 831, "key.length": 5, "key.namelength": 0]], "key.name": "input(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 12, "key.offset": 825][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Models/AudioPlayerAction.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 847, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 14, "key.substructure": [["key.typename": "Output", "key.nameoffset": 0, "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 854, "key.length": 6, "key.namelength": 0]], "key.name": "output(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 14, "key.offset": 847][0m
+    [33m/Users/runner/work/irando-app/irando-app/basic/SCAudioPlayer/Engines/AudioPlayerEngine.swift:parseEnumCase: Unable to extract enum body from ["key.nameoffset": 638, "key.accessibility": "source.lang.swift.accessibility.public", "key.length": 43, "key.substructure": [["key.nameoffset": 0, "key.typename": "TimeInterval", "key.length": 33, "key.name": "durationInSeconds", "key.kind": "source.lang.swift.decl.var.parameter", "key.offset": 647, "key.namelength": 0]], "key.name": "duration(_:)", "key.kind": "source.lang.swift.decl.enumelement", "key.namelength": 43, "key.offset": 638][0m
+[33m▸[0m [39;1mProcessing[0m Info.plist
+[33m▸[0m [39;1mCopying[0m DataLayer.h
+[33m▸[0m [39;1mProcessing[0m Info.plist
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1037:46: [33mcast from 'AnySequence<ABTestV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return abTests.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1039:57: [33mcast from 'AnySequence<ABTestChoiceLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return abTestChoiceLocals.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1041:32: [33mcast from 'AnySequence<AccountInfoV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return accountInfo as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1043:50: [33mcast from 'AnySequence<AnnotationV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return annotations.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1045:35: [33mcast from 'AnySequence<AppPlanUpsellV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return appPlanUpsells as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1047:32: [33mcast from 'AnySequence<AppUpgradeV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return appUpgrades as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1049:51: [33mcast from 'AnySequence<AudioStreamV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return audioStreams.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1051:49: [33mcast from 'AnySequence<AudiobookV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return audiobooks.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1053:56: [33mcast from 'AnySequence<AudiobookChapterV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return audiobookChapters.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1055:56: [33mcast from 'AnySequence<AudiobookSessionV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return audiobookSessions.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1057:54: [33mcast from 'AnySequence<AudiobookTokenV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return audiobookTokens.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1059:59: [33mcast from 'AnySequence<AudiobookTokenCacheV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return audiobookTokenCaches.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1061:41: [33mcast from 'AnySequence<AudiobooksLicenseIDV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return audiobooksLicenseIDs as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1063:64: [33mcast from 'AnySequence<AudiobooksLicenseIDLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return audiobooksLicenseIDLocals.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1065:50: [33mcast from 'AnySequence<CollectionV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return collections.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1067:51: [33mcast from 'AnySequence<ContentTypeV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return contentTypes.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1069:52: [33mcast from 'AnySequence<ContributionV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return contributions.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1071:52: [33mcast from 'AnySequence<CoreDocumentV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return coreDocuments.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1073:55: [33mcast from 'AnySequence<CoreDocumentInfoV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return coreDocumentInfo.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1075:68: [33mcast from 'AnySequence<CreditExpenditureRecordLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return creditExpenditureRecordLocals.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1077:36: [33mcast from 'AnySequence<DiscoverModuleV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return discoverModules as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1079:49: [33mcast from 'AnySequence<DiscoverRecommendedDocumentsV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return discoverRecommendedDocuments as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1081:49: [33mcast from 'AnySequence<DiscoverRecommendedInterestsV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return discoverRecommendedInterests as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1083:48: [33mcast from 'AnySequence<DocumentV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return documents.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1085:51: [33mcast from 'AnySequence<DocumentInfoV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return documentInfo.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1087:59: [33mcast from 'AnySequence<DocumentRestrictionV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return documentRestrictions.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1089:54: [33mcast from 'AnySequence<EditorialBlurbV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return editorialBlurbs.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1091:38: [33mcast from 'AnySequence<EpubsAccessTokenV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return epubsAccessTokens as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1093:38: [33mcast from 'AnySequence<EpubsFontPackageV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return epubsFontPackages as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1095:51: [33mcast from 'AnySequence<FeatureFlagV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return featureFlags.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1097:28: [33mcast from 'AnySequence<FollowV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return follows as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1099:40: [33mcast from 'AnySequence<FollowMagazineListV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return followMagazineLists as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1101:48: [33mcast from 'AnySequence<InterestV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return interests.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1103:41: [33mcast from 'AnySequence<LibraryHistoryLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return libraryHistoryLocals as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1105:42: [33mcast from 'AnySequence<LibrarySyncDataLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return librarySyncDataLocals as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1107:58: [33mcast from 'AnySequence<MobileNotificationV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return mobileNotifications.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1109:45: [33mcast from 'AnySequence<OrderV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return orders.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1111:44: [33mcast from 'AnySequence<PaymentsPaymentProfileV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return paymentsPaymentProfiles as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1113:62: [33mcast from 'AnySequence<PersonalizationFeatureV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return personalizationFeatures.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1115:40: [33mcast from 'AnySequence<PersonalizationInfoV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return personalizationInfo as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1117:44: [33mcast from 'AnySequence<PlanV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return plans.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1119:44: [33mcast from 'AnySequence<PromoV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return promo.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1121:55: [33mcast from 'AnySequence<QuerySuggestionV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return querySuggestions.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1123:46: [33mcast from 'AnySequence<RatingV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return ratings.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1125:53: [33mcast from 'AnySequence<ReaderSessionV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return readerSessions.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1127:54: [33mcast from 'AnySequence<ReadingProgressV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return readingProgress.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1129:52: [33mcast from 'AnySequence<ReadingStateV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return readingStates.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1131:46: [33mcast from 'AnySequence<ReviewV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return reviews.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1133:50: [33mcast from 'AnySequence<ReviewVoteV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return reviewVotes.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1135:54: [33mcast from 'AnySequence<SearchV2ModuleV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return searchV2Modules.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1137:58: [33mcast from 'AnySequence<SearchV2ModuleItemV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return searchV2ModuleItems.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1139:39: [33mcast from 'AnySequence<SearchV2StructureV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return searchV2Structures as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1141:50: [33mcast from 'AnySequence<ShareQuoteV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return shareQuotes.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1143:60: [33mcast from 'AnySequence<SubscriptionReferralV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return subscriptionReferrals.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1145:49: [33mcast from 'AnySequence<SubscriptionReferralsClaimedV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return subscriptionReferralsClaimed as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1147:48: [33mcast from 'AnySequence<SummaryV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return summaries.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1149:39: [33mcast from 'AnySequence<SupportChatEnabledV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return supportChatEnabled as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1151:45: [33mcast from 'AnySequence<UnavailableRequestTitleV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return unavailableRequestTitles as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1153:44: [33mcast from 'AnySequence<UserV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return users.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1155:68: [33mcast from 'AnySequence<UserCollectionDocumentsLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return userCollectionDocumentsLocals.orderedValues.any as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1157:38: [33mcast from 'AnySequence<UserSessionLocalV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return userSessionLocals as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Payloads/EndpointResultPayload.swift:1159:41: [33mcast from 'AnySequence<UsersReadingProgressV2>' to unrelated type 'AnySequence<E>' always fails[0m
+
+            return usersReadingProgress as? AnySequence<E> ?? [].any
+[36m                   ~~~~~~~~~~~~~~~~~~~~ ^   ~~~~~~~~~~~~~~[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Managers/AudiobookAnalyticsManager.swift:47:13: [33mimmutable property will not be decoded because it is declared with an initial value which cannot be overwritten[0m
+
+        let apiVersion = "4.0"
+[36m            ^[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Managers/AudiobookAnalyticsManager.swift:55:20: [33mimmutable property will not be decoded because it is declared with an initial value which cannot be overwritten[0m
+
+        public let name = "iOS"
+[36m        ~~~ ^[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Managers/AudiobookAnalyticsManager.swift:62:9: [33mimmutable property will not be decoded because it is declared with an initial value which cannot be overwritten[0m
+
+    let system = System()
+[36m        ~~~~~~     ^[0m
+
+
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/DataLayer/DataLayer/Generated/Extensions/LibraryHistoryLocalV2+Extras.swift:31:13: [33mdefault will never be executed[0m
+
+            default:
+[36m    ~~~ ^[0m
+
+
+[33m▸[0m [39;1mLinking[0m SiriExtension
+[33m▸[0m [39;1mGenerating 'SiriExtension.appex.dSYM'[0m
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mTouching[0m SiriExtension.appex (in target 'SiriExtension' from project 'irando-app')
+[33m▸[0m [39;1mCompiling[0m SCAudioPlayer_vers.c
+[33m▸[0m [39;1mLinking[0m SCAudioPlayer
+[33m▸[0m [39;1mGenerating 'SCAudioPlayer.framework.dSYM'[0m
+[33m▸[0m [39;1mCopying[0m SCAudioPlayer.h
+[33m▸[0m [39;1mTouching[0m SCAudioPlayer.framework (in target 'SCAudioPlayer-iOS' from project 'rando-appbasic')
+[33m▸[0m [39;1mCompiling[0m ViewLayer_vers.c
+[33m▸[0m [39;1mLinking[0m ViewLayer
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/ViewLayer/ViewLayer/Components/Font/FontFiles/SourceSansPro-SemiboldIt.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/ViewLayer/ViewLayer/Components/Font/FontFiles/SourceSansPro-Regular.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/ViewLayer/ViewLayer/Components/Font/FontFiles/SourceSansPro-Semibold.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/ViewLayer/ViewLayer/Components/Font/FontFiles/SourceSansPro-It.ttf
+[33m▸[0m [39;1mProcessing[0m Info.plist
+[33m▸[0m [39;1mRunning script[0m 'Build ImageCatalog with SwiftGen'
+[33m▸[0m [39;1mGenerating 'ViewLayer.framework.dSYM'[0m
+[33m▸[0m [39;1mTouching[0m ViewLayer.framework (in target 'ViewLayer-iOS' from project 'ViewLayer')
+[33m▸[0m [39;1mCompiling[0m DataLayer_vers.c
+[33m▸[0m [39;1mLinking[0m DataLayer
+[33m▸[0m [39;1mGenerating 'DataLayer.framework.dSYM'[0m
+[33m▸[0m [39;1mTouching[0m DataLayer.framework (in target 'DataLayer-iOS' from project 'DataLayer')
+[33m▸[0m [39;1mProcessing[0m Info.plist
+
+[33m⚠️  [0m/Users/runner/work/irando-app/irando-app/API/API/Core/Utils/Event.swift:119:19: [33mvalue 'invocable' was defined but never used; consider replacing with boolean test[0m
+
+        guard let invocable = eventInfoRemove(withIdentifier: identifier) else { return }
+[36m            ^[0m
+
+
+[33m▸[0m [39;1mCompiling[0m SCEvent.m
+[33m▸[0m [39;1mCompiling[0m _SCDPromoAction.m
+[33m▸[0m [39;1mCompiling[0m SCDPromo.m
+[33m▸[0m [39;1mCompiling[0m SCCoreDataController.m
+[33m▸[0m [39;1mCompiling[0m _SCDPromo.m
+[33m▸[0m [39;1mCompiling[0m _SCDAudiobookTimeTracking.m
+[33m▸[0m [39;1mCompiling[0m SCObjectInflator.m
+[33m▸[0m [39;1mCompiling[0m SCManagedObject.m
+[33m▸[0m [39;1mCompiling[0m SCDPromoAction.m
+[33m▸[0m [39;1mCompiling[0m SCConstants.m
+[33m▸[0m [39;1mCompiling[0m SCAnalyticsConstants.m
+[33m▸[0m [39;1mCompiling[0m SCAPIResponse.m
+[33m▸[0m [39;1mCompiling[0m SCAPIRequest.m
+[33m▸[0m [39;1mCompiling[0m SCAPIIConstants.m
+[33m▸[0m [39;1mCompiling[0m NSString+Core.m
+[33m▸[0m [39;1mCompiling[0m NSManagedObjectContext+SCAdditions.m
+[33m▸[0m [39;1mCompiling[0m API_vers.c
+[33m▸[0m [39;1mLinking[0m API
+[33m▸[0m [39;1mCopying[0m SCDPromoAction.h
+[33m▸[0m [39;1mCopying[0m SCManagedObject.h
+[33m▸[0m [39;1mCopying[0m SCDPromo.h
+[33m▸[0m [39;1mGenerating 'API.framework.dSYM'[0m
+[33m▸[0m [39;1mCopying[0m _SCDPromoAction.h
+[33m▸[0m [39;1mCopying[0m _SCDPromo.h
+[33m▸[0m [39;1mCopying[0m _SCDAudiobookTimeTracking.h
+[33m▸[0m [39;1mCopying[0m SCEvent.h
+[33m▸[0m [39;1mCopying[0m SCHTTPResponseStatusCodes.h
+[33m▸[0m [39;1mCopying[0m SCAnalyticsObject.h
+[33m▸[0m [39;1mCopying[0m SCAnalyticsIdentifiableElement.h
+[33m▸[0m [39;1mCopying[0m SCAPIResponse.h
+[33m▸[0m [39;1mCopying[0m SCAPIRequest.h
+[33m▸[0m [39;1mCopying[0m SCAPIITypes.h
+[33m▸[0m [39;1mCopying[0m SCMacros.h
+[33m▸[0m [39;1mCopying[0m NSString+Core.h
+[33m▸[0m [39;1mCopying[0m NSManagedObjectContext+SCAdditions.h
+[33m▸[0m [39;1mCopying[0m SCObjectInflator.h
+[33m▸[0m [39;1mCopying[0m SCCoreDataController.h
+[33m▸[0m [39;1mCopying[0m SCConstants.h
+[33m▸[0m [39;1mCopying[0m SCAnalyticsConstants.h
+[33m▸[0m [39;1mCopying[0m SCAPIIConstants.h
+[33m▸[0m [39;1mCopying[0m API.h
+[33m▸[0m [39;1mTouching[0m API.framework (in target 'API-iOS' from project 'API')
+[33m▸[0m [39;1mRunning script[0m 'Weaver'
+[33m▸[0m [39;1mRunning script[0m 'Apply custom patches to Carthage frameworks'
+[33m▸[0m [39;1mRunning script[0m 'Begin Compile Phase...Go make a cup of tea'
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mCopying[0m ReaderIntents.strings
+[33m▸[0m [39;1mPrecompiling[0m /Users/runner/work/irando-app/irando-app/irando-app-Prefix.pch
+[33m▸[0m [39;1mCompiling[0m SCWrappingLabel.m
+[33m▸[0m [39;1mCompiling[0m SCStackedButtonsContainerView.m
+[33m▸[0m [39;1mCompiling[0m SCSettingsAnalyticsLogger.m
+[33m▸[0m [39;1mCompiling[0m __Reachability.m
+[33m▸[0m [39;1mCompiling[0m UIViewController+SCAdditions.m
+[33m▸[0m [39;1mCompiling[0m UIResponder+OverrideContextMenuItems.m
+[33m▸[0m [39;1mCompiling[0m UIImageView+SCAnimations.m
+[33m▸[0m [39;1mCompiling[0m UIButton+InvitationType.m
+[33m▸[0m [39;1mCompiling[0m SCWatchdog.m
+[33m▸[0m [39;1mCompiling[0m SCViewHelper.m
+[33m▸[0m [39;1mCompiling[0m SCURLCache.m
+[33m▸[0m [39;1mCompiling[0m SCShareToFacebookActivity.m
+[33m▸[0m [39;1mCompiling[0m SCSettingsWireframe.m
+[33m▸[0m [39;1mCompiling[0m SCRuntimeHelperFunctions.m
+[33m▸[0m [39;1mCompiling[0m SCReferralsPresenter.m
+[33m▸[0m [39;1mCompiling[0m SCReferralInvitationDataSource.m
+[33m▸[0m [39;1mCompiling[0m SCRecommendationsLogger.m
+[33m▸[0m [39;1mCompiling[0m SCReaderViewController.m
+[33m▸[0m [39;1mCompiling[0m SCReaderTimerHelper.m
+[33m▸[0m [39;1mCompiling[0m SCReaderResponsivenessVerifier.m
+[33m▸[0m [39;1mCompiling[0m SCReaderLoadingView.m
+[33m▸[0m [39;1mCompiling[0m SCProfileImageModel.m
+[33m▸[0m [39;1mCompiling[0m SCPrincipalTabBarController.m
+[33m▸[0m [39;1mCompiling[0m SCNightlyAssertionHandler.m
+[33m▸[0m [39;1mCompiling[0m SCMimeHelper.m
+[33m▸[0m [39;1mCompiling[0m SCLogLevelMapper.m
+[33m▸[0m [39;1mCompiling[0m SCJoinedFriendsViewModel.m
+[33m▸[0m [39;1mCompiling[0m SCJoinedFriendsViewController.m
+[33m▸[0m [39;1mCompiling[0m SCJoinedFriendsTableViewDelegate.m
+[33m▸[0m [39;1mCompiling[0m SCJoinedFriendsTableViewDataSource.m
+[33m▸[0m [39;1mCompiling[0m SCJoinedFriendsTableHeaderContainerView.m
+[33m▸[0m [39;1mCompiling[0m SCJoinedFriendTableViewCell.m
+[33m▸[0m [39;1mCompiling[0m SCJoinedFriendCellModel.m
+[33m▸[0m [39;1mCompiling[0m SCInviteFriendsViewModel.m
+[33m▸[0m [39;1mCompiling[0m SCInviteFriendsViewController.m
+[33m▸[0m [39;1mCompiling[0m SCInviteBySystemShareService.m
+[33m▸[0m [39;1mCompiling[0m SCInviteByMessageService.m
+[33m▸[0m [39;1mCompiling[0m SCInviteByMailService.m
+[33m▸[0m [39;1mCompiling[0m SCInviteByFacebookPostService.m
+[33m▸[0m [39;1mCompiling[0m SCInviteButtonModelFactory.m
+[33m▸[0m [39;1mCompiling[0m SCInviteButtonModel.m
+[33m▸[0m [39;1mCompiling[0m SCInviteButtonFactory.m
+[33m▸[0m [39;1mCompiling[0m SCInviteAndJoinedFriendsViewModel.m
+[33m▸[0m [39;1mCompiling[0m SCInviteAndJoinedFriendsViewController.m
+[33m▸[0m [39;1mCompiling[0m SCInviteAndJoinedFriendsTableHeaderContainerView.m
+[33m▸[0m [39;1mCompiling[0m SCInvitationSender.m
+[33m▸[0m [39;1mCompiling[0m SCInvitationLogger.m
+[33m▸[0m [39;1mCompiling[0m SCInvitation.m
+[33m▸[0m [39;1mCompiling[0m SCIntroTextHeaderView.m
+[33m▸[0m [39;1mCompiling[0m SCImageViewController.m
+[33m▸[0m [39;1mCompiling[0m SCHandoffManager.m
+[33m▸[0m [39;1mCompiling[0m SCFileAdapter.m
+[33m▸[0m [39;1mCompiling[0m SCFacebookSharer.m
+[33m▸[0m [39;1mCompiling[0m SCFacebookShareableInvite.m
+[33m▸[0m [39;1mCompiling[0m SCFacebookShareLogger.m
+[33m▸[0m [39;1mCompiling[0m SCFacebookSDKDelegate.m
+[33m▸[0m [39;1mCompiling[0m SCFacebook4ShareService.m
+[33m▸[0m [39;1mCompiling[0m SCExternalWebpageViewController.m
+[33m▸[0m [39;1mCompiling[0m SCEndOfListeningNotificationsInteractor.m
+[33m▸[0m [39;1mCompiling[0m SCEPUBWebView.m
+[33m▸[0m [39;1mCompiling[0m SCEPUBViewerInstanceManager.m
+[33m▸[0m [39;1mCompiling[0m SCEPUBViewController.m
+[33m▸[0m [39;1mCompiling[0m SCEPUBSearchMatch.m
+[33m▸[0m [39;1mCompiling[0m SCEPUBScriptController.m
+[33m▸[0m [39;1mCompiling[0m SCEPUBReaderView.m
+[33m▸[0m [39;1mCompiling[0m SCEPUBChapter.m
+[33m▸[0m [39;1mCompiling[0m SCDecoratedCenteredDividerView.m
+[33m▸[0m [39;1mCompiling[0m SCDebugAssertionHandler.m
+[33m▸[0m [39;1mCompiling[0m SCDAudiobookTimeTracking.m
+[33m▸[0m [39;1mCompiling[0m SCCompanionMetadataProvider.m
+[33m▸[0m [39;1mCompiling[0m SCCompanionMetadataForDownloadedDocument.m
+[33m▸[0m [39;1mCompiling[0m SCChevronImageFactory.m
+[33m▸[0m [39;1mCompiling[0m SCBugReportMailer.m
+[33m▸[0m [39;1mCompiling[0m SCBugReportLogger.m
+[33m▸[0m [39;1mCompiling[0m SCBugReportLogFormatter.m
+[33m▸[0m [39;1mCompiling[0m SCBugReportHelper.m
+[33m▸[0m [39;1mCompiling[0m SCBrowseDocumentsHeaderReusableView.m
+[33m▸[0m [39;1mCompiling[0m SCAudiobookCreditsViewModel.m
+[33m▸[0m [39;1mCompiling[0m SCAudiobookCreditsView.m
+[33m▸[0m [39;1mCompiling[0m SCAppsFlyerManager.m
+[33m▸[0m [39;1mCompiling[0m SCAppsFlyerLoginStateTracker.m
+[33m▸[0m [39;1mCompiling[0m SCAnalyticsV1.m
+[33m▸[0m [39;1mCompiling[0m SCAnalyticsEventBatch.m
+[33m▸[0m [39;1mCompiling[0m SCAnalyticsErrorLogger.m
+[33m▸[0m [39;1mCompiling[0m SCAnalyticsAPI.m
+[33m▸[0m [39;1mCompiling[0m SCAPIIObjectParser.m
+[33m▸[0m [39;1mCompiling[0m SCAPIIHelpers.m
+[33m▸[0m [39;1mCompiling[0m SCAPII.m
+[33m▸[0m [39;1mCompiling[0m SC3DTouchManager.m
+[33m▸[0m [39;1mCompiling[0m NSURL+SCURLParser.m
+[33m▸[0m [39;1mCompiling[0m NSThread+SCDebugMode.m
+[33m▸[0m [39;1mCompiling[0m NSString+SCAdditions.m
+[33m▸[0m [39;1mCompiling[0m NSObject+SCOverrideKeyCommands.m
+[33m▸[0m [39;1mCompiling[0m NSHTTPURLResponse+SCAdditions.m
+[33m▸[0m [39;1mCompiling[0m NSException+SCAdditions.m
+[33m▸[0m [39;1mCompiling[0m NSError+SCFacebookErrorLogging.m
+[33m▸[0m [39;1mCompiling[0m NSDate+SCAdditions.m
+[33m▸[0m [39;1mCompiling[0m NSData+SCPushNotificationToken.m
+[33m▸[0m [39;1mCompiling[0m NSAssertSwiftHelper.m
+[33m▸[0m [39;1mLinking[0m irando-app
+[33m⚠️  ld: directory not found for option '-F/Users/runner/work/irando-app/irando-app/Carthage/Checkouts/zendesk_sdk_chat_ios'[0m
+[33m⚠️  ld: method '-facebookLoggingParameters' in category from /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app Enterprise/IntermediateBuildFilesPath/irando-app.build/Release_Enterprise-iphoneos/irando-app.build/Objects-normal/arm64/Error+FacebookLogging.o conflicts with same method from another category[0m
+[33m▸[0m [39;1mRunning script[0m 'Creating Acknowledgements'
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/irando-app.entitlements
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/jquery-1.10.0.min.js
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Settings.bundle
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/rando-app-app-icon.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/note-icon.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/vollkorn-i-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/vollkorn-bi-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/vollkorn-b-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/vollkorn--.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-sc-offc-pro-i-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-sc-offc-pro-bi-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-sc-offc-pro-b-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-sc-offc-pro--.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-offc-pro-i-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-offc-pro-bi-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-offc-pro-b-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/tisa-offc-pro--.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/scala-sans--.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/scala--.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text-i-sc.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text-i-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text-bi-sc.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text-bi-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text-b-sc.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text-b-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text--sc.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/harriet-text--.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/din-offc-pro-medium-i-sc.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/din-offc-pro-medium--sc.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/din-offc-pro-i-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/din-offc-pro-bi-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/din-offc-pro-b-.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/din-offc-pro--.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Fonts/EPUBReader/ScalaSansOffc-Ita.ttf
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-watch-Debug.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Shared.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Release_Enterprise_Testflight.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Release_Enterprise.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Release_AppStore.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Debug_Test.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Debug_AppStore.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-tests-Debug.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Shared.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Release_Enterprise_Testflight.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Release_Enterprise.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Release_AppStore.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Debug_Test.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Debug_AppStore.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/irando-app-Debug.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Shared.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Release_Enterprise_Testflight.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Release_Enterprise.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Release_AppStore.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Debug_Test.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Debug_AppStore.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/Project-Debug.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Shared.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Release_Enterprise_Testflight.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Release_Enterprise.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Release_AppStore.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Debug_Test.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Debug_AppStore.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/xcconfig/CoreDataMigrationTests-Debug.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/SharedProjectSettings.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Resources/Configurations/EnterpriseSettings.xcconfig
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Classes/FakePersonalizationJSON.json
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Classes/ArticleReader.js
+[33m▸[0m [39;1mCopying[0m Localizable.strings
+[33m▸[0m [39;1mCopying[0m Localizable.strings
+[33m▸[0m [39;1mCopying[0m Localizable.strings
+[33m▸[0m [39;1mCopying[0m Localizable.strings
+[33m▸[0m [39;1mCopying[0m Localizable.strings
+[33m▸[0m [39;1mCopying[0m Localizable.strings
+[33m▸[0m [39;1mCopying[0m Localizable.strings
+[33m▸[0m [39;1mCopying[0m Localizable.strings
+[33m▸[0m [39;1mCopying[0m Localizable.strings
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m GoogleService-Info.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCopying[0m AppIntentVocabulary.plist
+[33m▸[0m [39;1mCompiling[0m Launch\ Screen.storyboard
+[33m▸[0m [39;1mProcessing[0m irando-app-Info.plist
+[33m▸[0m [39;1mGenerating 'irando-app.app.dSYM'[0m
+[33m▸[0m [39;1mRunning script[0m 'Touch'
+[33m▸[0m [39;1mRunning script[0m 'Copy Stores for Migration Testing'
+[33m▸[0m [39;1mRunning script[0m 'Git Hash Script'
+[33m▸[0m [39;1mRunning script[0m 'Crashlytics Configuration Script'
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app\ Enterprise/BuildProductsPath/Release_Enterprise-iphoneos/SiriExtension.appex
+    [33mskipping copy phase strip, binary is code signed: /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app Enterprise/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/SiriExtension.appex/SiriExtension (in target 'irando-app' from project 'irando-app')[0m
+[33m▸[0m [39;1mRunning script[0m 'SwiftLint Script'
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app\ Enterprise/BuildProductsPath/Release_Enterprise-iphoneos/ViewLayer.framework
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app\ Enterprise/BuildProductsPath/Release_Enterprise-iphoneos/SCAudioPlayer.framework
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app\ Enterprise/BuildProductsPath/Release_Enterprise-iphoneos/DataLayer.framework
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app\ Enterprise/BuildProductsPath/Release_Enterprise-iphoneos/API.framework
+[33m▸[0m [39;1mCopying[0m /Users/runner/work/irando-app/irando-app/Vendor/WazeAudio/WazeAudio.framework
+    [33mskipping copy phase strip, binary is code signed: /Users/runner/work/irando-app/irando-app/Vendor/WazeAudio/WazeAudio.framework/WazeAudio (in target 'irando-app' from project 'irando-app')[0m
+[33m▸[0m [39;1mRunning script[0m 'Strip iPhone Simulator Architectures When Building For Archive Script'
+[33m▸[0m [39;1mRunning script[0m 'Carthage Copy Frameworks'
+** ARCHIVE FAILED **
+
+
+The following build commands failed:
+	PhaseScriptExecution Carthage\ Copy\ Frameworks /Users/runner/work/irando-app/irando-app/build-product/Build/Intermediates.noindex/ArchiveIntermediates/irando-app\ Enterprise/IntermediateBuildFilesPath/irando-app.build/Release_Enterprise-iphoneos/irando-app.build/Script-C9FB9BD41DDB9E5E002BBBA2.sh
+(1 failure)
+[02:25:34]: [31mExit status: 65[0m
+[02:25:34]: 
+[02:25:34]: [33mMaybe the error shown is caused by using the wrong version of Xcode[0m
+[02:25:34]: [33mFound multiple versions of Xcode in '/Applications/'[0m
+[02:25:34]: [33mMake sure you selected the right version for your project[0m
+[02:25:34]: [33mThis build process was executed using '/Applications/Xcode_12.app'[0m
+[02:25:34]: [33mIf you want to update your Xcode path, either[0m
+[02:25:34]: 
+[02:25:34]: - Specify the Xcode version in your Fastfile
+[02:25:34]: ▸ [35mxcversion(version: "8.1") # Selects Xcode 8.1.0[0m
+[02:25:34]: 
+[02:25:34]: - Specify an absolute path to your Xcode installation in your Fastfile
+[02:25:34]: ▸ [35mxcode_select "/Applications/Xcode8.app"[0m
+[02:25:34]: 
+[02:25:34]: - Manually update the path using
+[02:25:34]: ▸ [35msudo xcode-select -s /Applications/Xcode.app[0m
+[02:25:34]: 
+
++---------------+----------------------------+
+|             [32m[33mBuild environment[0m              |
++---------------+----------------------------+
+| xcode_path    | /Applications/Xcode_12.app |
+| gym_version   | 2.166.0                    |
+| export_method | enterprise                 |
+| sdk           | iPhoneOS14.0.sdk           |
++---------------+----------------------------+
+
+[02:25:34]: ▸ [35mCommand PhaseScriptExecution failed with a nonzero exit code[0m
+[02:25:34]: ▸ [35mResult bundle written to path:[0m
+[02:25:34]: ▸ [35m	/Users/runner/work/irando-app/irando-app/test_output/irando-app.result[0m
+[02:25:34]: 
+[02:25:34]: [31m⬆️  Check out the few lines of raw `xcodebuild` output above for potential hints on how to solve this error[0m
+[02:25:34]: [33m📋  For the complete and more detailed error log, check the full log at:[0m
+[02:25:34]: [33m📋  /Users/runner/Library/Logs/gym/irando-app-irando-app Enterprise.log[0m
+[02:25:34]: 
+[02:25:34]: [31mLooks like fastlane ran into a build/archive error with your project[0m
+[02:25:34]: [31mIt's hard to tell what's causing the error, so we wrote some guides on how[0m
+[02:25:34]: [31mto troubleshoot build and signing issues: https://docs.fastlane.tools/codesigning/getting-started/[0m
+[02:25:34]: [31mBefore submitting an issue on GitHub, please follow the guide above and make[0m
+[02:25:34]: [31msure your project is set up correctly.[0m
+[02:25:34]: [31mfastlane uses `xcodebuild` commands to generate your binary, you can see the[0m
+[02:25:34]: [31mthe full commands printed out in yellow in the above log.[0m
+[02:25:34]: [31mMake sure to inspect the output above, as usually you'll find more error information there[0m
+[02:25:34]: 
+[31m
+[!] Error building the application - see the log above[0m

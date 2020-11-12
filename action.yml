@@ -26,18 +26,22 @@ runs:
         EOL5285109
         fi
 
+        echo "Removing ANSI codes"
         if [[ $(uname -s) == Darwin* ]]; then
-          CONTENT=`cat /tmp/ansi.txt | sed -E "s/\x1B\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g" | sed -E "s/\\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g"`
+          sed -i '' -E "s/\x1B\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g" /tmp/ansi.txt
+          sed -i '' -E "s/\\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g" /tmp/ansi.txt
         else 
-          CONTENT=`cat /tmp/ansi.txt | sed -r "s/\x1B\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g" | sed -r "s/\\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g"`
+          sed -r "s/\x1B\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g" /tmp/ansi.txt > /tmp/ansi.txt
+          sed -r "s/\\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g" /tmp/ansi.txt > /tmp/ansi.txt
         fi
+        echo "ANSI codes removed"
+
 
         if [[ "${{ inputs.overwrite-path }}" != "false" ]]; then
-          echo "Overwriting file."
-          cat >"${{ inputs.path }}" <<EOL5285109
-          $CONTENT
-        EOL5285109
+          cp /tmp/ansi.txt ${{ inputs.path }}
         fi
+
+        CONTENT=`cat /tmp/ansi.txt`
 
         CONTENT="${CONTENT//'%'/%25}"
         CONTENT="${CONTENT//$'\n'/%0A}"

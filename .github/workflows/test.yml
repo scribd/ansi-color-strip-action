@@ -16,6 +16,21 @@ jobs:
           path: test/build.log
       - name: Print Stripped Contents
         run: echo "${{ steps.strip.outputs.content }}"
+  test_large_file:
+    strategy:
+      matrix:
+        os: ['macos-latest', 'ubuntu-latest']
+    runs-on: ${{ matrix.os }}
+    name: Test Stripping A Large File
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ./
+        id: strip
+        with:
+          path: test/large-file.log
+          overwrite-path: true
+      - name: Print Stripped Contents
+        run: cat test/large-file.log
   test_string:
     strategy:
       matrix:
