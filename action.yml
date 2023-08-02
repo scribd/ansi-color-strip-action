@@ -42,6 +42,6 @@ runs:
         CONTENT="${CONTENT//'%'/%25}"
         CONTENT="${CONTENT//$'\n'/%0A}"
         CONTENT="${CONTENT//$'\r'/%0D}"
-        echo "::set-output name=content::$CONTENT"
+        echo "content=$CONTENT" >> $GITHUB_OUTPUT
       shell: bash
       id: strip
